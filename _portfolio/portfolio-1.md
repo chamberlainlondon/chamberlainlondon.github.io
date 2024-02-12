@@ -1,6 +1,6 @@
 ---
 title: "2021 - 2022 Ramsey Lead Research Presentation"
-excerpt: "Measured lead conversion strategies among 30 firms in 7 territories to convey improved client acquisition opportunities with company partners <br/><img src='/images/500x300.png'>"
+excerpt: "Measured lead conversion strategies among 30 firms in 7 territories to convey improved client acquisition opportunities with company partners <br/><img src='/images/Ramsey Market Research.png'>"
 collection: portfolio
 ---
 
