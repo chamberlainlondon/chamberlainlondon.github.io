@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-------
+======
 Howdy! I'm a first-generation undergraduate studying Economics with applications in Computer Science and Finance at The University of Texas at Austin. Additionally, I'm passionate about data analysis and visualization, entrepreneurship, and law.
 
 Experience
@@ -43,8 +43,8 @@ In 2023, I completed [Google's Data Analytics Professional Certificate](https://
 
 **Harvard Professional Certificate in Computer Science for Python Programming**
 
-In 2024, I am concluding Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, I am developing proficiency in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. Students complete a final course project in both courses by creating a piece of software implemented in any language that solves a prolem or impacts their community.
+In 2024, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, I am developing proficiency in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. Students complete a final course project in both courses by creating a piece of software implemented in any language that solves a prolem or impacts their community.
 
 **The University of Texas at Austin Elements of Computing Certificate**
 
-At The University of Texas at Austin, I am additionally working on the Elements of Computing Certificate, an 18-hour program that involves Python courses in Software Design, Graphics and Data Visualization, Networking, Databases, Web Programming, Data Analytics, Game Development, and Software Engineering.
+As a student at The University of Texas at Austin, I am additionally finishing the Elements of Computing Certificate, an 18-hour program that involves advanced Python courses in Software Design, Graphics and Data Visualization, Networking, Databases, Web Programming, Data Analytics, Game Development, and Software Engineering.
