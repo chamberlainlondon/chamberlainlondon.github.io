@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+------
 Howdy! I'm a first-generation undergraduate studying Economics with applications in Computer Science and Finance at The University of Texas at Austin. Additionally, I'm passionate about data analysis and visualization, entrepreneurship, and law.
 
 Experience
