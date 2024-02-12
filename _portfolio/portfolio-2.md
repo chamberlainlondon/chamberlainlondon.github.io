@@ -6,8 +6,8 @@ collection: portfolio
 
 At The Fox Alliance Wealth Advisors, I developed an internal Power BI dashboard that visualized firm AUM and production metrics, utilizing a database of over 224K entries. The dashboard is updated every month and a live connection to the data ensures that the dashboard displays the most up-to-date AUM and production information available for every advisor in the firm. 
 
-> <img src='https://chamberlainlondon.github.io/files/TFA Dashboard 1'>
+> ![Illustration of the TFA Dashboard Homepage](/files/TFA Dashboard 1.png)
 
-> <img src='https://chamberlainlondon.github.io/files/TFA Dashboard 2'>
+> <img src='https://chamberlainlondon.github.io/files/TFA Dashboard 2.png'>
 
-> <img src='https://chamberlainlondon.github.io/files/TFA Dashboard 3'>
+> <img src='https://chamberlainlondon.github.io/files/TFA Dashboard 3.png'>
