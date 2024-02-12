@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "London Chamberlain."
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -35,6 +35,7 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 > Hiring and directing a technology consultant and data analytics team to double data analytics output for firm
 
 Licenses and Certifications
+======
 ------
 
 In 2023, I completed [Google's Data Analytics Professional Certificate](https://www.credly.com/badges/f57c583b-6caa-4b88-8111-3ab16a6be2ea/linked_in_profile). During the program, I became competent in tools and platforms including Excel and Google spreadsheets, SQL, Tableau, and R. 
