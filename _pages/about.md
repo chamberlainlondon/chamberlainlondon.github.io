@@ -9,6 +9,7 @@ permalink: /about/
 - B.S. Economics, The University of Texas at Austin, 2026
   - Academic Certificate: Elements of Computing (Computer Science)
 
+<br>
 Professional Experience
 ======
 ------
@@ -34,7 +35,7 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 
 > Hiring and directing a technology consultant and data analytics team to double data analytics output for firm.
 
-
+<br>
 Licenses and Certifications
 ======
 ------
