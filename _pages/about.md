@@ -49,3 +49,5 @@ In 2023, I completed [Google's Data Analytics Professional Certificate](https://
 In 2024, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, I am developing proficiency in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. I will complete a final course project in both courses by creating a piece of software implemented in any language that solves a prolem or impacts my community.
 
 **The University of Texas at Austin Elements of Computing Certificate (In progress)**
+
+As a student at The University of Texas at Austin, I am additionally finishing the [Elements of Computing Certificate](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing), an 18-hour program that involves advanced Python courses in Software Design, Graphics and Data Visualization, Networking, Databases, Web Programming, Data Analytics, Game Development, and Software Engineering.
