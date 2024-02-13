@@ -8,8 +8,15 @@ At The Fox Alliance Wealth Advisors, I developed an internal Power BI dashboard 
 
 Dashboard Images:
 
-> ![Illustration of the TFA Dashboard Homepage](https://chamberlainlondon.github.io/images/TFA Dashboard 1.png)
+<div style="text-align: center;">
+    ![Illustration of the TFA Dashboard Homepage](https://chamberlainlondon.github.io/images/TFA Dashboard 1.png)
+</div>
 
-> ![Illustration of the TFA Dashboard Historical AUM](https://chamberlainlondon.github.io/images/TFA Dashboard 2.png)
+<div style="text-align: center;">
+    ![Illustration of the TFA Dashboard Historical AUM](https://chamberlainlondon.github.io/images/TFA Dashboard 2.png)
+</div>
 
-> ![Illustration of the TFA Dashboard Historical Production](https://chamberlainlondon.github.io/images/TFA Dashboard 3.png)
+<div style="text-align: center;">
+    ![Illustration of the TFA Dashboard Historical Production](https://chamberlainlondon.github.io/images/TFA Dashboard 3.png)
+</div>
+
