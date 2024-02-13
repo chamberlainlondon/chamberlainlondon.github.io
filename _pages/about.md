@@ -5,7 +5,6 @@ title: "About"
 permalink: /about/
 ---
 <br>
-<br>
 
 Education
 ======
