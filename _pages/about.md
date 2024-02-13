@@ -1,11 +1,9 @@
 ---
 permalink: /
 author_profile: true
-title: "About"
+title: "Education"
 permalink: /about/
 ---
-Education
-======
 ------
 **The University of Texas at Austin**
 - B.S. Economics, The University of Texas at Austin, 2026
