@@ -11,7 +11,7 @@ Throughout the project, I compiled response data, including how quickly firms re
 Our team began utilizing instant messaging communication upon my recommendation, given the data I provided.
 
 <div style="text-align: center;">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmTkLB9TXxUQ8HquvLCSaMy82b1qyKPuFySkVGUluk1xTAQxmahMYgXvoO1YHC1g/embed?start=false&loop=true&delayms=3000" frameborder="0" width="750" height="445" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmTkLB9TXxUQ8HquvLCSaMy82b1qyKPuFySkVGUluk1xTAQxmahMYgXvoO1YHC1g/embed?start=false&loop=true&delayms=3000" frameborder="0" width="748" height="445" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <br>
