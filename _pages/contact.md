@@ -18,5 +18,3 @@ Feel free to contact me at <london.chamberlain@utexas.edu>, get in touch via [Li
 
   <button type="submit">Send message</button>
 </form>
-<br>
-Thank you for your interest!
