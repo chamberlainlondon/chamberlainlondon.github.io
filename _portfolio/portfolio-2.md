@@ -1,6 +1,6 @@
 ---
 title: "The Fox Alliance AUM and Production Dashboard"
-excerpt: "Utilized a database of over 224K entries to create a Power BI dashboard that visualized firm KPIs <br/> <img src=''>"
+excerpt: "Utilized a database of over 224K entries to create a Power BI dashboard that visualized firm KPIs"
 collection: portfolio
 ---
 ------
