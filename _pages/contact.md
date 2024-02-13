@@ -16,5 +16,7 @@ Feel free to contact me at <london.chamberlain@utexas.edu>, get in touch via [Li
   <label for="message">Message</label>
   <textarea name="message"></textarea>
 
-  <button type="submit">Send message</button>
+   <div style="text-align:left;">
+    <button type="submit" class="btn">Send message</button>
+  </div>
 </form>
