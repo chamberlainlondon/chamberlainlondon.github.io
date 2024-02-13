@@ -1,9 +1,11 @@
 ---
 permalink: /
 author_profile: true
-title: ""
+title: "About"
 permalink: /about/
 ---
+<br>
+<br>
 
 Education
 ======
