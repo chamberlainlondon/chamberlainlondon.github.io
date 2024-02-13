@@ -27,9 +27,9 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 
 > Launching an Excel and VBA model that allowed firm to efficiently purchase $20M in opportunistic stocks among 900 client accounts
 
-> Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs
+> Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-2/)
 
-> Measuring lead conversion strategies among 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners
+> Measuring lead conversion strategies among 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-1/)
 
 > Overhauling client-facing investment proposal document using Excel and Visual Basic for Applications so financial calculations and document manipulation are systemized and automated
 
