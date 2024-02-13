@@ -10,7 +10,7 @@ Education
 ------
 **The University of Texas at Austin**
 - B.S. Economics, The University of Texas at Austin, 2026
-- Academic Certificate: Elements of Computing (Computer Science)
+  - Academic Certificate: Elements of Computing (Computer Science)
 
 Experience
 ======
