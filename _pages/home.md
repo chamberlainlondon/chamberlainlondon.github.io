@@ -11,5 +11,5 @@ In business settings, I have experience creating interactive financial models an
 {{< alert "circle-info" >}} I am actively looking for a summer 2024 internship, ideally (i) starting between May 2024 and June 2024, and (ii) in a field related to finance, statistics, consulting, or data science. Do not hesitate to contact me if you have an opening that meets these criteria. {{< /alert >}}
 
 <div style="text-align:center;">
-    <a href="/about/" class="btn">Learn More About Me</a>
+    <a href="/about/" class="btn">Learn More</a>
 </div>
