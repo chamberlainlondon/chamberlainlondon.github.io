@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Chamberlain"
 title_separator          : "-"
 name                     : &name "London Chamberlain"
 description              : &description "personal description"
