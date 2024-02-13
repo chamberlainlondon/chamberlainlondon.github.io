@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "London Chamberlain"
   avatar           : "London_Headshot_Greyscale_Background.png"
-  bio              : "Economics & CS @ The University of Texas at Austin"
-  location         : "Austin, Texas"
+  bio              : "Economics & Computer Science @ The University of Texas at Austin"
+  location         : "Austin, TX"
   employer         : 
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # example: "http://yourfullgooglescholarurl.com"
