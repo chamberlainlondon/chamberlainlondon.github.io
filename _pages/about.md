@@ -5,6 +5,7 @@ author_profile: true
 permalink: /about/
 ---
 ------
+
 Education
 ======
 ------
