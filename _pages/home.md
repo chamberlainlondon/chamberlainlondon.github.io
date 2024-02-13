@@ -10,5 +10,5 @@ In business settings, I have experience creating interactive financial models an
 
 
 <div style="text-align:center;">
-    <a href="/about/" class="btn">Learn More</a>
+    <a href="/about/" class="btn">Learn More About Me</a>
 </div>
