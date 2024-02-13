@@ -52,7 +52,6 @@ In 2024, I am working on Harvard College's [Professional Certificate in Computer
 
 As a student at The University of Texas at Austin, I am additionally finishing the [Elements of Computing Certificate](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing), an 18-hour program that involves advanced Python courses in Software Design, Graphics and Data Visualization, Networking, Databases, Web Programming, Data Analytics, Game Development, and Software Engineering.
 
-<br>
 <div style="text-align:center;">
     <a href="/portfolio/" class="btn" style="text-decoration: none;">Portfolio</a>
 </div>
