@@ -6,6 +6,9 @@ main:
   - title: "CV"
     url: /files/LondonChamberlain - Resume.pdf
 
+  - title: "Blog"
+    url: https://medium.com/@london.chamberlain
+
   - title: "Contact"
     url: /contact/
     
