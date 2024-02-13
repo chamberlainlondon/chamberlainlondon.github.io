@@ -10,6 +10,9 @@ Throughout the project, I compiled response data, including how quickly firms re
 
 Our team began utilizing instant messaging communication upon my recommendation, given the data I provided.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmTkLB9TXxUQ8HquvLCSaMy82b1qyKPuFySkVGUluk1xTAQxmahMYgXvoO1YHC1g/embed?start=false&loop=true&delayms=3000" frameborder="0" width="750" height="445" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div style="text-align: center;">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmTkLB9TXxUQ8HquvLCSaMy82b1qyKPuFySkVGUluk1xTAQxmahMYgXvoO1YHC1g/embed?start=false&loop=true&delayms=3000" frameborder="0" width="750" height="445" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 <br>
 Download the full presentation [here](https://chamberlainlondon.github.io/files/2021 Market Research Presentation.pptx).
