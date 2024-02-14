@@ -11,9 +11,25 @@ The dashboard is updated every month and a live connection to the data ensures t
 Dashboard images:
 
 <div style="text-align: center;">
+  <style>
+    figure {
+      display: block;
+      position: relative;
+      margin: 1em auto;
+      max-width: 100%;
+    }
+
+    figcaption {
+      background-color: #f0f0f0;
+      color: black;
+      font-style: italic;
+      padding: 0.5em;
+      text-align: center;
+    }
+  </style>
   <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
-    <figcaption>Dashboard Homepage</figcaption>
+    <figcaption>Dashboard Homepage image</figcaption>
   </figure>
 </div>
 
