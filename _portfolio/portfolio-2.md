@@ -32,19 +32,25 @@ Dashboard images:
     }
 </style>
 
-<div class="image-container">
+<div style="text-align: center;">
+  <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
-    <p class="caption">Dashboard Homepage</p>
+    <figcaption style="font-size: 11px; color: #333;">Dashboard Homepage</figcaption>
+  </figure>
 </div>
 
-<div class="image-container">
+<div style="text-align: center;">
+  <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png" alt="Illustration of the TFA Dashboard Historical AUM">
-    <p class="caption">Historical AUM Visualization</p>
+    <figcaption style="font-size: 11px; color: #333;">Historical AUM Visualization</figcaption>
+  </figure>
 </div>
 
-<div class="image-container">
+<div style="text-align: center;">
+  <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" alt="Illustration of the TFA Dashboard Historical Production">
-    <p class="caption">Historical Production Visualization</p>
+    <figcaption style="font-size: 11px; color: #333;">Historical Production Visualization</figcaption>
+  </figure>
 </div>
 
 
