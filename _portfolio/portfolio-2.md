@@ -14,6 +14,7 @@ Dashboard images:
     .image-container {
         text-align: center;
         position: relative;
+        margin-bottom: 20px; /* Add margin to create space for the caption */
     }
 
     .image-container img {
@@ -22,13 +23,9 @@ Dashboard images:
     }
 
     .caption {
-        position: absolute;
-        bottom: 0;
-        left: 0;
         width: 100%;
         background-color: #f0f0f0;
         padding: 8px;
-        margin: 0;
         text-align: center;
     }
 </style>
@@ -47,6 +44,7 @@ Dashboard images:
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" alt="Illustration of the TFA Dashboard Historical Production">
     <p class="caption">Historical Production Visualization</p>
 </div>
+
 
 
 
