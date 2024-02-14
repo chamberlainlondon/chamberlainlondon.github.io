@@ -14,7 +14,7 @@ Dashboard images:
     .image-container {
         text-align: center;
         position: relative;
-        margin-bottom: 20px; /* Add margin to create space for the caption */
+        margin-bottom: 20px;
     }
 
     .image-container img {
@@ -27,6 +27,8 @@ Dashboard images:
         background-color: #f0f0f0;
         padding: 8px;
         text-align: center;
+        font-size: 14px; /* Set font size to 14px */
+        color: #333; /* Set text color to dark grey */
     }
 </style>
 
