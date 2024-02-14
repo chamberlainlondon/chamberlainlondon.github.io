@@ -27,7 +27,7 @@ Dashboard images:
         background-color: #f0f0f0;
         padding: 8px;
         text-align: center;
-        font-size: 11px; /* Set font size to 14px */
+        font-size: 9px; /* Set font size to 14px */
         color: #777777; /* Set text color to dark grey */
     }
 </style>
