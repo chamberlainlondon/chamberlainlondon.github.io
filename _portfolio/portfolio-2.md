@@ -13,10 +13,9 @@ Dashboard images:
 <div style="text-align: center;">
   <style>
     figure {
-      display: block;
-      position: relative;
-      margin: 1em auto;
-      max-width: 100%;
+      display: inline-block;
+      margin: 1em;
+      text-align: center;
     }
 
     figcaption {
@@ -24,27 +23,25 @@ Dashboard images:
       color: black;
       font-style: italic;
       padding: 0.5em;
-      text-align: center;
+      margin-top: 0.5em;
+      width: 100%; /* Ensure full width of the container */
     }
   </style>
   <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
-    <figcaption>Dashboard Homepage image</figcaption>
+    <figcaption>Dahboard Homepage</figcaption>
   </figure>
-</div>
 
-<div style="text-align: center;">
   <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png" alt="Illustration of the TFA Dashboard Historical AUM">
     <figcaption>Historical AUM Visualization</figcaption>
   </figure>
-</div>
 
-<div style="text-align: center;">
   <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" alt="Illustration of the TFA Dashboard Historical Production">
     <figcaption>Historical Production Visualization</figcaption>
   </figure>
 </div>
+
 
 
