@@ -14,7 +14,7 @@ Dashboard images:
     .image-container {
         text-align: center;
         position: relative;
-        margin-bottom: 20px;
+        margin-bottom: 20px; /* Add margin to create space for the caption */
     }
 
     .image-container img {
@@ -23,35 +23,34 @@ Dashboard images:
     }
 
     .caption {
+        position: absolute;
+        bottom: 0;
+        left: 0;
         width: 100%;
         background-color: #f0f0f0;
         padding: 8px;
+        margin: 0;
         text-align: center;
-        font-size: 9px; /* Set font size to 14px */
-        color: #777777; /* Set text color to dark grey */
+        font-size: 14px; /* Set font size */
+        color: #333; /* Set text color */
     }
 </style>
 
-<div style="text-align: center;">
-  <figure>
+<div class="image-container">
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
-    <figcaption style="font-size: 11px; color: #333;">Dashboard Homepage</figcaption>
-  </figure>
+    <p class="caption">Dashboard Homepage</p>
 </div>
 
-<div style="text-align: center;">
-  <figure>
+<div class="image-container">
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png" alt="Illustration of the TFA Dashboard Historical AUM">
-    <figcaption style="font-size: 11px; color: #333;">Historical AUM Visualization</figcaption>
-  </figure>
+    <p class="caption">Historical AUM Visualization</p>
 </div>
 
-<div style="text-align: center;">
-  <figure>
+<div class="image-container">
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" alt="Illustration of the TFA Dashboard Historical Production">
-    <figcaption style="font-size: 11px; color: #333;">Historical Production Visualization</figcaption>
-  </figure>
+    <p class="caption">Historical Production Visualization</p>
 </div>
+
 
 
 
