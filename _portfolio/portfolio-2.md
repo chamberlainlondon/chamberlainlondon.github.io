@@ -38,8 +38,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
   </div>
   <div>
-    <a onclick="scrollToImage(-1)" class="btn">Back</a>
-    <a onclick="scrollToImage(1)" class="btn">Next</a>
+    <a onclick="scrollToNext()" class="btn">Next</a>
   </div>
 </div>
 
@@ -48,23 +47,13 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
   const images = document.getElementsByClassName("image");
   const container = document.getElementById("image-container");
 
-  function scrollToImage(direction) {
+  function scrollToNext() {
     container.style.transition = "transform 0.5s";
-    const imageWidth = images[currentIndex].getBoundingClientRect().width;
-    const scrollAmount = container.scrollLeft + direction * imageWidth;
-    container.scrollTo({
-      left: scrollAmount,
-      behavior: "smooth"
-    });
-    currentIndex = (currentIndex + direction + images.length) % images.length;
+    currentIndex = (currentIndex + 1) % images.length;
+    const scrollAmount = images[currentIndex].offsetLeft - container.scrollLeft;
+    container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
-
-
-
-
-
-
 
 <br>
 
