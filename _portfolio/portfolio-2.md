@@ -50,17 +50,16 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
   function scrollToImage(direction) {
     container.style.transition = "transform 0.5s";
+    const imageWidth = images[currentIndex].getBoundingClientRect().width;
+    const scrollAmount = container.scrollLeft + direction * imageWidth;
+    container.scrollTo({
+      left: scrollAmount,
+      behavior: "smooth"
+    });
     currentIndex = (currentIndex + direction + images.length) % images.length;
-    const scrollAmount = images[currentIndex].offsetLeft - container.scrollLeft;
-    container.style.transform = `translateX(-${scrollAmount}px)`;
-    
-    // Disable transition during scroll
-    container.style.transition = "none";
-    setTimeout(() => {
-      container.style.transition = "transform 0.5s";
-    }, 50); // Re-enable transition after a short delay
   }
 </script>
+
 
 
 
