@@ -11,9 +11,6 @@ permalink: /about/
 ### The University of Texas at Austin
 - B.S. Economics, The University of Texas at Austin, 2026
   - Academic Certificate: Elements of Computing (Computer Science)
- 
-### Austin Community College
-- Business Administration Student, 2021 - 2023
 
 # Professional Experience
 
@@ -23,7 +20,7 @@ Since December 2023, I have served as a technology consultant for James A Baker 
 
 > Modified technology infrastructure by transitioning CRM and scheduling software to achieve 20% reduction in annual expenses.
 
-> Enhancing HubSpot CRM and OnceHub client scheduling software to monitor planned client meetings and lead conversion rates.
+> Enhanced HubSpot CRM and OnceHub client scheduling software by monitoring planned client meetings and lead conversion rates.
 
 ### The Fox Alliance Wealth Management
 
