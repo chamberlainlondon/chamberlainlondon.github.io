@@ -8,21 +8,14 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
 
 ### This dashboard displays:
 
-> Total firm AUM
-
-> Percent of total AUM managed by each advisor
-
-> MoM AUM growth
-
-> Total firm production
-
-> Percent of total production by product (investment) category
-
-> AUM and production correlation by advisor
-
-> AUM growth over time
-
-> Production growth over time
+> - Total firm AUM
+> - Percent of total AUM managed by each advisor
+> - MoM AUM growth
+> - Total firm production
+> - Percent of total production by product (investment) category
+> - AUM and production correlation by advisor
+> - AUM growth over time
+> - Production growth over time
 
 This dashboard is updated every month and a live connection to the data ensures that the dashboard displays the most up-to-date AUM and production information available for every advisor in the firm. This was my first time using Power BI for a project.
 
