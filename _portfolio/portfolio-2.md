@@ -31,6 +31,25 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 ### Dashboard images:
 
 
+<style>
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        margin: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: 1px solid #007bff;
+        border-radius: 5px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .btn:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+</style>
+
 <div style="overflow: hidden; text-align: center;">
   <div id="image-container" style="display: flex; transition: transform 0.5s;">
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
@@ -38,8 +57,8 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
   </div>
   <div>
-    <button onclick="scrollToImage(-1)">Back</button>
-    <button onclick="scrollToImage(1)">Next</button>
+    <a onclick="scrollToImage(-1)" class="btn">Back</a>
+    <a onclick="scrollToImage(1)" class="btn">Next</a>
   </div>
 </div>
 
@@ -54,6 +73,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
+
 
 
 
