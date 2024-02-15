@@ -39,7 +39,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
   </div>
   <br>
   <div>
-    <a onclick="scrollToNext()" class="btn" style="text-decoration: none;">Next</a>
+    <a onclick="scrollToNext()" class="btn" style="text-decoration: none;">Next Image</a>
   </div>
 </div>
 
