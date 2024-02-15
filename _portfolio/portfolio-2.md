@@ -4,17 +4,23 @@ excerpt: "Utilized a database of over 224K entries to create a Power BI dashboar
 collection: portfolio
 ---
 ------
-At The Fox Alliance Wealth Advisors, I developed an internal Power BI dashboard that visualized firm assets under management (AUM) and production metrics, utilizing a database of over 224K entries.
+At The Fox Alliance Wealth Advisors, I developed an internal Power BI dashboard that displays firm assets under management (AUM) and production metrics month-over-month (MoM), utilizing a database of over 224K entries.
 
-This dashboard displays:
+### This dashboard displays:
 
-- Total firm AUM
-- Percent of total AUM managed by each advisor
-- Net AUM growth per month
-- Total firm production
-- AUM and production correlation by advisor
-- AUM growth over time
-- Production growth over time
+> Total firm AUM
+
+> Percent of total AUM managed by each advisor
+
+> MoM AUM growth
+
+> Total firm production
+
+> AUM and production correlation by advisor
+
+> AUM growth over time
+
+> Production growth over time
 
 This dashboard is updated every month and a live connection to the data ensures that the dashboard displays the most up-to-date AUM and production information available for every advisor in the firm. This was my first time using Power BI for a project.
 
