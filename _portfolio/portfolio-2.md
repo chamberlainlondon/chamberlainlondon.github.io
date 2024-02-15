@@ -30,7 +30,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
 ### Dashboard images:
 
-
+<br>
 <div style="overflow: hidden; text-align: center;">
   <div id="image-container" style="display: flex; transition: transform 0.5s;">
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
@@ -73,35 +73,3 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
-
-
-<br>
-
-
-<div style="text-align: center;">
-  <figure>
-    <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
-    <figcaption>Dashboard Homepage</figcaption>
-  </figure>
-</div>
-
-<div style="text-align: center;">
-  <figure>
-    <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png" alt="Illustration of the TFA Dashboard Historical AUM">
-    <figcaption>Historical AUM Visualization</figcaption>
-  </figure>
-</div>
-
-<div style="text-align: center;">
-  <figure>
-    <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" alt="Illustration of the TFA Dashboard Historical Production">
-    <figcaption>Historical Production Visualization</figcaption>
-  </figure>
-</div>
-
-
-
-
-
-
-
