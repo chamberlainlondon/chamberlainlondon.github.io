@@ -38,17 +38,17 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 
 # Licenses and Certifications
 
-### Google Data Analytics Professional Certificate (2023)
-
-In 2023, I completed [Google's Data Analytics Professional Certificate](https://www.credly.com/badges/f57c583b-6caa-4b88-8111-3ab16a6be2ea/linked_in_profile). During the program, I became competent in tools and platforms including Excel and Google spreadsheets, SQL, Tableau, and R. 
-
 ### Harvard Professional Certificate in Computer Science for Python Programming (In progress)
 
 In 2024, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, I am developing proficiency in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. I will complete a final course project in both courses by creating a piece of software implemented in any language that solves a prolem or impacts my community.
 
 ### The University of Texas at Austin Elements of Computing Certificate (In progress)
 
-As a student at The University of Texas at Austin, I am additionally finishing the [Elements of Computing Certificate](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing), an 18-hour program that involves advanced Python courses in Software Design, Graphics and Data Visualization, Networking, Databases, Web Programming, Data Analytics, Game Development, and Software Engineering.
+As a student at The University of Texas at Austin, I am additionally finishing the [Elements of Computing Certificate](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing), an 18 credit-hour program that involves advanced Python courses in Software Design, Graphics and Data Visualization, Networking, Databases, Web Programming, Data Analytics, Game Development, and Software Engineering.
+
+### Google Data Analytics Professional Certificate (2023)
+
+In 2023, I completed [Google's Data Analytics Professional Certificate](https://www.credly.com/badges/f57c583b-6caa-4b88-8111-3ab16a6be2ea/linked_in_profile). During the program, I became competent in tools and platforms including Excel and Google spreadsheets, SQL, Tableau, and R. 
 
 <div style="text-align:left;">
     <a href="/portfolio/" class="btn" style="text-decoration: none;">Portfolio</a>
