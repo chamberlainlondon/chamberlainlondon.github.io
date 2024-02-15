@@ -49,14 +49,19 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
   const container = document.getElementById("image-container");
 
   function scrollToImage(direction) {
-    container.style.transition = "none"; // Disable transition
+    container.style.transition = "transform 0.5s";
     currentIndex = (currentIndex + direction + images.length) % images.length;
     const scrollAmount = images[currentIndex].offsetLeft - container.scrollLeft;
     container.style.transform = `translateX(-${scrollAmount}px)`;
-    container.offsetWidth; // Trigger reflow
-    container.style.transition = "transform 0.5s"; // Re-enable transition
+    
+    // Disable transition during scroll
+    container.style.transition = "none";
+    setTimeout(() => {
+      container.style.transition = "transform 0.5s";
+    }, 50); // Re-enable transition after a short delay
   }
 </script>
+
 
 
 
