@@ -30,6 +30,14 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
 ### Dashboard images:
 
+
+<div style="overflow-x: scroll; white-space: nowrap;">
+    <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" style="display: inline-block; max-width: 100%;">
+    <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png" style="display: inline-block; max-width: 100%;">
+    <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" style="display: inline-block; max-width: 100%;">
+</div>
+
+
 <div style="text-align: center;">
   <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
