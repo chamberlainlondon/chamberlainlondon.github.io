@@ -10,8 +10,7 @@ Based on this data, I created a report with data-driven recommendations for The 
 
 ### Presentation:
 
-
-
+<br>
 <div style="text-align: center;">
     <style>
         @media screen and (min-width: 768px) {
