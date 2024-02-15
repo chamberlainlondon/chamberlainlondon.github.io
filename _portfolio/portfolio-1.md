@@ -26,7 +26,7 @@ Based on this data, I created a report with data-driven recommendations for The 
             }
         }
     </style>
-    <iframe src="https://onedrive.live.com/embed?resid=804EDAC9834DDA47%212135&amp;authkey=!ALtRndSece5MH-Y&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" width="476px" height="275px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+    <iframe src="https://onedrive.live.com/embed?resid=804EDAC9834DDA47%212135&amp;authkey=!ALtRndSece5MH-Y&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
 
 <br>
