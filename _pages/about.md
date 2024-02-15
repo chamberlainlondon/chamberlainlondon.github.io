@@ -4,6 +4,7 @@ author_profile: true
 title: "About"
 permalink: /about/
 ---
+------
 
 # Education
 
