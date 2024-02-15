@@ -6,8 +6,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog"
-    url: https://medium.com/@london.chamberlain
+#  - title: "Blog"
+#    url: https://medium.com/@london.chamberlain
     
   - title: "CV"
     url: /files/LondonChamberlain - Resume.pdf
