@@ -48,16 +48,16 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     display: inline-block;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #007bff;
+    background-color: #798288;
     color: #fff;
-    border: 1px solid #007bff;
+    border: 1px solid #798288;
     border-radius: 5px;
     cursor: pointer;
   }
 
   .btn:hover {
-    background-color: #0056b3;
-    border-color: #0056b3;
+    background-color: #333333;
+    border-color: #333333;
   }
 </style>
 
