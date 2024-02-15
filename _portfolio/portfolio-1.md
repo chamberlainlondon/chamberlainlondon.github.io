@@ -4,11 +4,11 @@ excerpt: "Measured lead conversion practices and presented findings to partners"
 collection: portfolio
 ---
 ------
-Over the course of 3 months, I tracked the initial contact practices of over 30 firms spanning 7 Texas territories to determine various contact data about our firm's competitors. 
+During 3 months of my time as a wealth management intern at [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I analyzed the initial contact practices of 30 firms across 7 Texas territories to gather data on our competitors. I compiled response data, including response times, communication methods, and content. 
 
-Throughout the project, I compiled response data, including how quickly firms reached out, forms of communcation used, content provided, and more. I ultimately formed a report including data-driven recommendations for improvement that I presented to The Fox Alliance's partners. 
+Based on this data, I created a report with data-driven recommendations, which I presented to The Fox Alliance's partners. As a result, our team started using instant messaging communication, following my recommendation.
 
-Our team began utilizing instant messaging communication upon my recommendation, given the data I provided.
+### Presentation:
 
 <div style="text-align: center;">
     <style>
