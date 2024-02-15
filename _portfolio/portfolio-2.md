@@ -31,25 +31,34 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 ### Dashboard images:
 
 
-<div style="overflow: hidden;">
-  <div id="image-container" style="display: flex;">
+<div style="overflow: hidden; text-align: center;">
+  <div id="image-container" style="display: flex; transition: transform 0.5s;">
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png">
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
   </div>
-  <button onclick="scrollToNext()">Next</button>
+  <div>
+    <button onclick="scrollToImage(-1)">Back</button>
+    <button onclick="scrollToImage(1)">Next</button>
+  </div>
 </div>
 
 <script>
   let currentIndex = 0;
   const images = document.getElementsByClassName("image");
 
-  function scrollToNext() {
-    currentIndex = (currentIndex + 1) % images.length;
+  function scrollToImage(direction) {
+    currentIndex = (currentIndex + direction + images.length) % images.length;
     const image = images[currentIndex];
-    image.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "start" });
+    const container = document.getElementById("image-container");
+    const scrollAmount = image.offsetLeft - container.scrollLeft;
+    container.scrollTo({
+      left: container.scrollLeft + scrollAmount,
+      behavior: "smooth"
+    });
   }
 </script>
+
 
 <br>
 
