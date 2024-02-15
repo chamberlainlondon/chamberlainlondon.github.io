@@ -26,6 +26,8 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
 > - AUM growth over time
 > - Production growth over time
 
+This dashboard is updated monthly, maintaining a live connection to ensure it displays the most up-to-date AUM and production information for every advisor in the firm. This project was my first experience using Power BI.
+
 ### Dashboard images:
 
 <br>
@@ -71,5 +73,3 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
     container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
-
-This dashboard is updated monthly, maintaining a live connection to ensure it displays the most up-to-date AUM and production information for every advisor in the firm. This project was my first experience using Power BI.
