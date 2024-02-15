@@ -46,18 +46,15 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 <script>
   let currentIndex = 0;
   const images = document.getElementsByClassName("image");
+  const container = document.getElementById("image-container");
 
   function scrollToImage(direction) {
     currentIndex = (currentIndex + direction + images.length) % images.length;
-    const image = images[currentIndex];
-    const container = document.getElementById("image-container");
-    const scrollAmount = image.offsetLeft - container.scrollLeft;
-    container.scrollTo({
-      left: container.scrollLeft + scrollAmount,
-      behavior: "smooth"
-    });
+    const scrollAmount = images[currentIndex].offsetLeft - container.scrollLeft;
+    container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
+
 
 
 <br>
