@@ -11,6 +11,9 @@ permalink: /about/
 ### The University of Texas at Austin
 - B.S. Economics, The University of Texas at Austin, 2026
   - Academic Certificate: Elements of Computing (Computer Science)
+ 
+### Austin Community College
+- Business Administration Student, 2021 - 2023
 
 # Professional Experience
 
