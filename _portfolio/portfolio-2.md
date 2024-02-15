@@ -64,13 +64,9 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
   function scrollToNext() {
     container.style.transition = "transform 0.5s";
-    const imageWidth = images[currentIndex].getBoundingClientRect().width;
-    const scrollPosition = container.scrollLeft % imageWidth;
-    const scrollAmount = scrollPosition === 0 ? imageWidth : imageWidth - scrollPosition;
-    container.scrollTo({
-      left: container.scrollLeft + scrollAmount,
-      behavior: "smooth"
-    });
+    const nextImage = images[(currentIndex + 1) % images.length];
+    const scrollAmount = nextImage.offsetLeft - container.scrollLeft;
+    container.style.transform = `translateX(-${scrollAmount}px)`;
     currentIndex = (currentIndex + 1) % images.length;
   }
 </script>
