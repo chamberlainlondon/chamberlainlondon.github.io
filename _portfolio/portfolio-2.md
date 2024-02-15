@@ -10,46 +10,27 @@ The dashboard is updated every month and a live connection to the data ensures t
 
 Dashboard images:
 
-<style>
-    .image-container {
-        text-align: center;
-        position: relative;
-        margin-bottom: 20px; /* Add margin to create space for the caption */
-    }
-
-    .image-container img {
-        max-width: 100%;
-        height: auto;
-    }
-
-    .caption {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        background-color: #f0f0f0;
-        padding: 8px;
-        margin: 0;
-        text-align: center;
-        font-size: 14px; /* Set font size */
-        color: #333; /* Set text color */
-    }
-</style>
-
-<div class="image-container">
+<div style="text-align: center;">
+  <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png" alt="Illustration of the TFA Dashboard Homepage">
-    <p class="caption">Dashboard Homepage</p>
+    <figcaption>Dashboard Homepage</figcaption>
+  </figure>
 </div>
 
-<div class="image-container">
+<div style="text-align: center;">
+  <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png" alt="Illustration of the TFA Dashboard Historical AUM">
-    <p class="caption">Historical AUM Visualization</p>
+    <figcaption>Historical AUM Visualization</figcaption>
+  </figure>
 </div>
 
-<div class="image-container">
+<div style="text-align: center;">
+  <figure>
     <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png" alt="Illustration of the TFA Dashboard Historical Production">
-    <p class="caption">Historical Production Visualization</p>
+    <figcaption>Historical Production Visualization</figcaption>
+  </figure>
 </div>
+
 
 
 
