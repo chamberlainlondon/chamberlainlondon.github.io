@@ -39,7 +39,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
   </div>
   <br>
   <div>
-    <a onclick="scrollToNext()" class="btn" style="text-decoration: none;">Next Image</a>
+    <a onclick="scrollToNext()" class="btn" style="text-decoration: none; background-color: #798288; color: #fff; border: 1px solid #798288; border-radius: 5px;">Next</a>
   </div>
 </div>
 
@@ -48,10 +48,6 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     display: inline-block;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #798288;
-    color: #fff;
-    border: 1px solid #798288;
-    border-radius: 5px;
     cursor: pointer;
   }
 
@@ -68,8 +64,14 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
   function scrollToNext() {
     container.style.transition = "transform 0.5s";
+    const imageWidth = images[currentIndex].getBoundingClientRect().width;
+    const scrollPosition = container.scrollLeft % imageWidth;
+    const scrollAmount = scrollPosition === 0 ? imageWidth : imageWidth - scrollPosition;
+    container.scrollTo({
+      left: container.scrollLeft + scrollAmount,
+      behavior: "smooth"
+    });
     currentIndex = (currentIndex + 1) % images.length;
-    const scrollAmount = images[currentIndex].offsetLeft - container.scrollLeft;
-    container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
+
