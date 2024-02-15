@@ -8,6 +8,15 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
 
 ### This dashboard displays:
 
+<style>
+  blockquote {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-left: 5px solid #31708f;
+    margin: 20px 0;
+  }
+</style>
+
 > - Total firm AUM
 > - Percent of total AUM managed by each advisor
 > - MoM AUM growth
