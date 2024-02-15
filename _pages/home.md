@@ -4,9 +4,10 @@ title: "Home"
 author_profile: true
 ---
 ------
-Howdy, my name is London Chamberlain. I am a first-generation undergraduate studying Economics with applications in Computer Science and Finance at [The University of Texas at Austin](https://www.utexas.edu/). Beyond these disciplines, I'm also passionate about data analysis and visualization, entrepreneurship, and law.
 
-In business settings, I have experience creating interactive financial models and [dashboards](https://chamberlainlondon.github.io/portfolio/portfolio-2/) using Microsoft Excel and Visual Basic for Applications (VBA), Power BI, and Python. I additionally have a working knowledge of SQL, R, and Tableau, as I have used these tools in various academic projects.
+Howdy, I'm London Chamberlain, a first-generation undergraduate at [The University of Texas at Austin](https://www.utexas.edu/), majoring in Economics with applications in Computer Science and Finance. I have a keen interest in data analysis and visualization, entrepreneurship, and law.
+
+In business environments, I specialize in creating interactive financial models and [dashboards](https://chamberlainlondon.github.io/portfolio/portfolio-2/) using tools such as Microsoft Excel with VBA, Power BI, and Python. Additionally, I have practical experience with SQL, R, and Tableau, having applied these skills in various academic projects.
 
 <style>
   blockquote {
