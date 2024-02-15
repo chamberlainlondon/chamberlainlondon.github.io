@@ -37,10 +37,29 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png">
     <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
   </div>
+  <br>
   <div>
-    <a onclick="scrollToNext()" class="btn">Next</a>
+    <a onclick="scrollToNext()" class="btn" style="text-decoration: none;">Next</a>
   </div>
 </div>
+
+<style>
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+</style>
 
 <script>
   let currentIndex = 0;
@@ -54,6 +73,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
     container.style.transform = `translateX(-${scrollAmount}px)`;
   }
 </script>
+
 
 <br>
 
