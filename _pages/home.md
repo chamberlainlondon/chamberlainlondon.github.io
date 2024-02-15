@@ -17,7 +17,7 @@ In business settings, I have experience creating interactive financial models an
   }
 </style>
 
-> **Note:** I am actively looking for a summer 2024 internship or research position, ideally (i) starting between May 2024 and June 2024, and (ii) in a field related to finance, statistics, consulting, or data science. Do not hesitate to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that meets these criteria. I am willing to relocate temporarily for the position.
+> **Note:** I am actively seeking a summer 2024 internship or research position, ideally starting between May and June 2024, in fields related to finance, data science, consulting, or statistics. Please feel free to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that aligns with these criteria. I am open to temporary relocation for the position.
 <br>
 
 <div style="text-align:center;">
