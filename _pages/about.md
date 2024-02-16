@@ -6,6 +6,15 @@ permalink: /about/
 ---
 ------
 
+<style>
+  blockquote {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-left: 5px solid #31708f;
+    margin: 20px 0;
+  }
+</style>
+
 # Education
 
 ### The University of Texas at Austin
