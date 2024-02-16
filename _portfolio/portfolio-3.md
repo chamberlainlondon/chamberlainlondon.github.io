@@ -1,5 +1,5 @@
 ---
-title: ""Resume Match" Python Application"
+title: "'Resume Match' Software"
 excerpt: "Developed a student-centered desktop application that analyzes your resume against a provided job application"
 collection: portfolio
 ---
