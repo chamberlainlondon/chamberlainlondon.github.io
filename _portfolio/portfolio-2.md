@@ -30,6 +30,8 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
 ### Dashboard images:
 
+<br>
+
 <p align="center">
   <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
   <br>
