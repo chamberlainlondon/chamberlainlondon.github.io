@@ -27,23 +27,18 @@ permalink: /about/
 
 Since December 2023, I have served as a technology consultant for James A Baker + Coaching. To date, I have:
 
-> Modified technology infrastructure by transitioning CRM and scheduling software to achieve 20% reduction in annual expenses.
-
-> Enhanced HubSpot CRM and OnceHub client scheduling software by monitoring planned client meetings and lead conversion rates.
+> - Modified technology infrastructure by transitioning CRM and scheduling software to achieve 20% reduction in annual expenses.
+> - Enhanced HubSpot CRM and OnceHub client scheduling software by monitoring planned client meetings and lead conversion rates.
 
 ### The Fox Alliance Wealth Management
 
 Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). At The Fox Alliance, I have fallen into a data analytics role, creating financial models and dashboards for the firm. Some of my most notable achievements include:
 
-> Launching an Excel and VBA model that allowed firm to efficiently purchase $20M in opportunistic stocks among 900 client accounts.
-
-> Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-2/)
-
-> Measuring lead conversion strategies among 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-1/)
-
-> Overhauling client-facing investment proposal document using Excel and Visual Basic for Applications so financial calculations and document manipulation are systemized and automated.
-
-> Hiring and directing a technology consultant and data analytics team to double data analytics output for firm.
+> - Launching an Excel and VBA model that allowed firm to efficiently purchase $20M in opportunistic stocks among 900 client accounts.
+> - Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-2/)
+> - Measuring lead conversion strategies among 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-1/)
+> - Overhauling client-facing investment proposal document using Excel and Visual Basic for Applications so financial calculations and document manipulation are systemized and automated.
+> - Hiring and directing a technology consultant and data analytics team to double data analytics output for firm.
 
 # Licenses and Certifications
 
