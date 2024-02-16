@@ -5,7 +5,7 @@ collection: portfolio
 ---
 ------
 
-In my spare time, I created a Python program called "Resume Match." This tool aims to help individuals improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
+During the Spring 2024 Semester, I developed a Python program called "Resume Match." This tool aims to help individuals improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
 
 The script uses several libraries, including tkinter for creating the graphical user interface (GUI), nltk for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the PyMuPDF library for extracting text from PDF resumes.
 
@@ -21,7 +21,7 @@ The script uses several libraries, including tkinter for creating the graphical 
 
 > **Display Recommendations:** The script presents a list of the most common words found in the job applications, along with recommended additions to the user's resume for improved alignment with the job application.
 
-By highlighting relevant keywords and skills, the tool can help individuals better align their resumes with the requirements of a particular job, leading to more promising job outcomes.
+This software was inspired by my experience applying for summer internships, where I spent hours sifting through each application for keywords to enhance my resume. By highlighting relevant keywords and skills, the tool helps individuals better-align their resumes with job descriptions, demonstrating to employers that they are a good fit for the position.
 
 ### Code:
 
