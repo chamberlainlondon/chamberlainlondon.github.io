@@ -44,6 +44,6 @@ This software was inspired by my experience applying for summer internships, whe
   <br>
   <em>Example: Summer Analyst - Locust Walk</em>
 </p>
-
+<br>
 
 In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web, and I would like to supply users additional feedback regarding their resume's content.
