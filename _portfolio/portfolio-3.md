@@ -1,6 +1,6 @@
 ---
 title: "Resume Match Python Application"
-excerpt: "Developed a student-centered desktop application that analyzes your resume against a provided job application."
+excerpt: "Developed a student-centered desktop application that analyzes your resume against a provided job application"
 collection: portfolio
 ---
 ------
