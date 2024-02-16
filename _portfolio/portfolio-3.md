@@ -9,6 +9,15 @@ During the Spring 2024 Semester, I developed a Python program called "Resume Mat
 
 The script uses several libraries, including tkinter for creating the graphical user interface (GUI), nltk for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the PyMuPDF library for extracting text from PDF resumes.
 
+<style>
+  blockquote {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-left: 5px solid #31708f;
+    margin: 20px 0;
+  }
+</style>
+
 ### Brief overview of how the algorithm works:
 
 > **Upload Resume:** Users can upload their resume in PDF or DOCX format. The script reads the file and extracts the text content.
@@ -25,8 +34,8 @@ This software was inspired by my experience applying for summer internships, whe
 
 ### Results:
 
-<div style="overflow: hidden; text-align: center;">
-  <div id="image-container" style="display: flex; transition: transform 0.5s;">
+<div style="text-align: center;">
+  <div id="image-container">
     <div class="image-container">
       <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch1.png">
     </div>
@@ -34,33 +43,18 @@ This software was inspired by my experience applying for summer internships, whe
       <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch2.png">
     </div>
   </div>
-  <br>
-  <div>
-    <a onclick="scrollToNext()" class="btn" style="text-decoration: none; background-color: #798288; color: #fff; border: 1px solid #798288; border-radius: 5px;">Next</a>
-  </div>
 </div>
 
 <style>
-  .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    cursor: pointer;
-  }
-
-  .btn:hover {
-    background-color: #333333;
-    border-color: #333333;
-  }
-
   .image-container {
+    display: inline-block;
     cursor: pointer;
     margin: 0 10px;
     overflow: hidden;
   }
 
   .image-container img {
-    width: 100%;
+    width: 200px; /* Set your desired width */
     transition: transform 0.5s;
   }
 
@@ -70,18 +64,7 @@ This software was inspired by my experience applying for summer internships, whe
 </style>
 
 <script>
-  let currentIndex = 0;
-  const images = document.getElementsByClassName("image");
   const containers = document.getElementsByClassName("image-container");
-
-  function scrollToNext() {
-    const container = document.getElementById("image-container");
-    container.style.transition = "transform 0.5s";
-    const nextImage = images[(currentIndex + 1) % images.length];
-    const scrollAmount = nextImage.offsetLeft - container.scrollLeft;
-    container.style.transform = `translateX(-${scrollAmount}px)`;
-    currentIndex = (currentIndex + 1) % images.length;
-  }
 
   containers.forEach(container => {
     container.addEventListener("click", () => {
