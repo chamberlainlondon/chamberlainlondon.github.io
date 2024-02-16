@@ -264,4 +264,4 @@ root.mainloop()
 
 ```
 
-In the future, I would like to incorporate JavaScript, HTML, and CSS to make this software accessible via the web, and I would like to supply users additional feedback regarding the their resume's content.
+In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible via the web, and I would like to supply users additional feedback regarding the their resume's content.
