@@ -30,9 +30,15 @@ This software was inspired by my experience applying for summer internships, whe
 
 ### Example Results:
 
+<br>
 <p align="center">
     <img src="https://chamberlainlondon.github.io/images/ResumeMatch1.png" alt="Resume Match 1">
+</p>
+
+<br>
+
+<p align="center">
     <img src="https://chamberlainlondon.github.io/images/ResumeMatch2.png" alt="Resume Match 2">
 </p>
 
-In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible via the web, and I would like to supply users additional feedback regarding the their resume's content.
+In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web, and I would like to supply users additional feedback regarding the their resume's content.
