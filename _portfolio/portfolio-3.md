@@ -23,6 +23,47 @@ The script uses several libraries, including tkinter for creating the graphical 
 
 This software was inspired by my experience applying for summer internships, where I spent hours sifting through each application for keywords to enhance my resume. By highlighting relevant keywords and skills, the tool helps individuals better-align their resumes with job descriptions, demonstrating to employers that they are a good fit for the position.
 
+### Results:
+
+<div style="overflow: hidden; text-align: center;">
+  <div id="image-container" style="display: flex; transition: transform 0.5s;">
+    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch1">
+    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch2">
+  </div>
+  <br>
+  <div>
+    <a onclick="scrollToNext()" class="btn" style="text-decoration: none; background-color: #798288; color: #fff; border: 1px solid #798288; border-radius: 5px;">Next</a>
+  </div>
+</div>
+
+<style>
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    background-color: #333333;
+    border-color: #333333;
+  }
+</style>
+
+<script>
+  let currentIndex = 0;
+  const images = document.getElementsByClassName("image");
+  const container = document.getElementById("image-container");
+
+  function scrollToNext() {
+    container.style.transition = "transform 0.5s";
+    const nextImage = images[(currentIndex + 1) % images.length];
+    const scrollAmount = nextImage.offsetLeft - container.scrollLeft;
+    container.style.transform = `translateX(-${scrollAmount}px)`;
+    currentIndex = (currentIndex + 1) % images.length;
+  }
+</script>
+
 ### Code:
 
 ```python
