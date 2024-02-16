@@ -7,7 +7,7 @@ collection: portfolio
 
 During the Spring 2024 Semester, I developed a Python program called "Resume Match." This tool aims to help individuals (primarily college students) improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
 
-The script uses several libraries, including tkinter for creating the graphical user interface (GUI), nltk for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the PyMuPDF library for extracting text from PDF resumes.
+The script uses several libraries, including tkinter for creating the graphical user interface (GUI), [nltk](https://www.nltk.org/) for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the PyMuPDF library for extracting text from PDF resumes.
 
 <style>
   blockquote {
@@ -18,7 +18,7 @@ The script uses several libraries, including tkinter for creating the graphical 
   }
 </style>
 
-### Brief overview of how the algorithm works:
+### Brief overview of algorithm:
 
 > - **Upload Resume:** Users can upload their resume in PDF or DOCX format. The script reads the file and extracts the text content.
 > - **Extract Verbs and Nouns:** The script analyzes the text of the resume to extract verbs and nouns using NLTK's part-of-speech tagging and lemmatization.
@@ -30,15 +30,17 @@ This software was inspired by my experience applying for summer internships, whe
 
 ### Example Results:
 
-<br>
 <p align="center">
-    <img src="https://chamberlainlondon.github.io/images/ResumeMatch1.png" alt="Resume Match 1">
+  <img src="https://chamberlainlondon.github.io/images/ResumeMatch1.png" alt="Resume Match 1">
+  <br>
+  <em>Example: Data Analyst - Texas Democratic Party</em>
 </p>
 
-<br>
-
 <p align="center">
-    <img src="https://chamberlainlondon.github.io/images/ResumeMatch2.png" alt="Resume Match 2">
+  <img src="https://chamberlainlondon.github.io/images/ResumeMatch2.png" alt="Resume Match 2">
+  <br>
+  <em>Example: Summer Analyst - Locust Walk</em>
 </p>
+
 
 In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web, and I would like to supply users additional feedback regarding the their resume's content.
