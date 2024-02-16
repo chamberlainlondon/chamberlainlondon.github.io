@@ -21,7 +21,7 @@ The script uses several libraries, including tkinter for creating the graphical 
 
 > **Display Recommendations:** The script presents a list of the most common words found in the job applications, along with recommended additions to the user's resume for improved alignment with the job application.
 
-By highlighting relevant keywords and skills, the tool can help individuals better align their resumes with the requirements of a particular job, leading to more opportunities.
+By highlighting relevant keywords and skills, the tool can help individuals better align their resumes with the requirements of a particular job, leading to more promising job outcomes.
 
 ### Code:
 
