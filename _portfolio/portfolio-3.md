@@ -37,6 +37,8 @@ This software was inspired by my experience applying for summer internships, whe
   <em>Example: Data Analyst - Texas Democratic Party</em>
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://chamberlainlondon.github.io/images/ResumeMatch2.png" alt="Resume Match 2">
   <br>
