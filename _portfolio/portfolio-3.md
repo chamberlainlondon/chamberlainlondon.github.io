@@ -27,8 +27,8 @@ This software was inspired by my experience applying for summer internships, whe
 
 <div style="overflow: hidden; text-align: center;">
   <div id="image-container" style="display: flex; transition: transform 0.5s;">
-    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch1">
-    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch2">
+    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch1.png">
+    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch2.png">
   </div>
   <br>
   <div>
