@@ -1,5 +1,5 @@
 ---
-title: "2021 - 2022 Ramsey Lead Research Presentation"
+title: "Ramsey Lead Research Presentation (2022)"
 excerpt: "Measured lead conversion practices and presented findings to partners"
 collection: portfolio
 ---
