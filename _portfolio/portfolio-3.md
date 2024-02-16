@@ -47,15 +47,17 @@ This software was inspired by my experience applying for summer internships, whe
 
 <style>
   .image-container {
-    display: inline-block;
+    display: block;
     cursor: pointer;
-    margin: 0 10px;
+    margin: 10px auto; /* Center the container */
     overflow: hidden;
+    transition: transform 0.5s;
   }
 
   .image-container img {
+    display: block;
+    margin: 0 auto; /* Center the image */
     width: 200px; /* Set your desired width */
-    transition: transform 0.5s;
   }
 
   .image-container.expanded img {
@@ -66,12 +68,13 @@ This software was inspired by my experience applying for summer internships, whe
 <script>
   const containers = document.getElementsByClassName("image-container");
 
-  containers.forEach(container => {
+  for (let container of containers) {
     container.addEventListener("click", () => {
       container.classList.toggle("expanded");
     });
-  });
+  }
 </script>
+
 
 
 ### Code:
