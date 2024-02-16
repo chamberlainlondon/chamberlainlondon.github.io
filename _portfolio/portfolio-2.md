@@ -30,44 +30,25 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
 ### Dashboard images:
 
-<br>
-<div style="overflow: hidden; text-align: center;">
-  <div id="image-container" style="display: flex; transition: transform 0.5s;">
-    <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
-    <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png">
-    <img class="image" src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
-  </div>
+<p align="center">
+  <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
   <br>
-  <div>
-    <a onclick="scrollToNext()" class="btn" style="text-decoration: none; background-color: #798288; color: #fff; border: 1px solid #798288; border-radius: 5px;">Next</a>
-  </div>
-</div>
+  <em>Dashboard Homepage</em>
+</p>
 
-<style>
-  .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    cursor: pointer;
-  }
+<br>
 
-  .btn:hover {
-    background-color: #333333;
-    border-color: #333333;
-  }
-</style>
+<p align="center">
+  <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png">
+  <br>
+  <em>Historical AUM Visualization</em>
+</p>
 
-<script>
-  let currentIndex = 0;
-  const images = document.getElementsByClassName("image");
-  const container = document.getElementById("image-container");
+<br>
 
-  function scrollToNext() {
-    container.style.transition = "transform 0.5s";
-    const nextImage = images[(currentIndex + 1) % images.length];
-    const scrollAmount = nextImage.offsetLeft - container.scrollLeft;
-    container.style.transform = `translateX(-${scrollAmount}px)`;
-    currentIndex = (currentIndex + 1) % images.length;
-  }
-</script>
+<p align="center">
+  <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
+  <br>
+  <em>Historical Production Visualization</em>
+</p>
 
