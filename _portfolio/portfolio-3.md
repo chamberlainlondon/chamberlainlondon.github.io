@@ -27,8 +27,12 @@ This software was inspired by my experience applying for summer internships, whe
 
 <div style="overflow: hidden; text-align: center;">
   <div id="image-container" style="display: flex; transition: transform 0.5s;">
-    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch1.png">
-    <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch2.png">
+    <div class="image-container">
+      <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch1.png">
+    </div>
+    <div class="image-container">
+      <img class="image" src="https://chamberlainlondon.github.io/images/ResumeMatch2.png">
+    </div>
   </div>
   <br>
   <div>
@@ -48,21 +52,44 @@ This software was inspired by my experience applying for summer internships, whe
     background-color: #333333;
     border-color: #333333;
   }
+
+  .image-container {
+    cursor: pointer;
+    margin: 0 10px;
+    overflow: hidden;
+  }
+
+  .image-container img {
+    width: 100%;
+    transition: transform 0.5s;
+  }
+
+  .image-container.expanded img {
+    transform: scale(2); /* Change the scale factor as needed */
+  }
 </style>
 
 <script>
   let currentIndex = 0;
   const images = document.getElementsByClassName("image");
-  const container = document.getElementById("image-container");
+  const containers = document.getElementsByClassName("image-container");
 
   function scrollToNext() {
+    const container = document.getElementById("image-container");
     container.style.transition = "transform 0.5s";
     const nextImage = images[(currentIndex + 1) % images.length];
     const scrollAmount = nextImage.offsetLeft - container.scrollLeft;
     container.style.transform = `translateX(-${scrollAmount}px)`;
     currentIndex = (currentIndex + 1) % images.length;
   }
+
+  containers.forEach(container => {
+    container.addEventListener("click", () => {
+      container.classList.toggle("expanded");
+    });
+  });
 </script>
+
 
 ### Code:
 
