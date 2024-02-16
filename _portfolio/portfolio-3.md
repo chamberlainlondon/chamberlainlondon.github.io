@@ -5,7 +5,7 @@ collection: portfolio
 ---
 ------
 
-During the Spring 2024 Semester, I developed a Python program called "Resume Match." This tool aims to help individuals improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
+During the Spring 2024 Semester, I developed a Python program called "Resume Match." This tool aims to help individuals (primarily college students) improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
 
 The script uses several libraries, including tkinter for creating the graphical user interface (GUI), nltk for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the PyMuPDF library for extracting text from PDF resumes.
 
@@ -221,5 +221,6 @@ root.bind('<Return>', submit_job_application)
 # Start Tkinter event loop
 root.mainloop()
 
-
 ```
+
+In the future, I would like to incorporate JavaScript, HTML, and CSS to make this software accessible via the web, and I would like to supply users additional feedback regarding the their resume's content.
