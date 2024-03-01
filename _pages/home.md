@@ -11,17 +11,17 @@ Today, I specialize in creating interactive financial models and [dashboards](ht
 
 Beyond my studies, I have a keen interest in entrepreneurship, law, and golf course turf management.
 
-<style>
-  blockquote {
-    padding: 10px;
-    background-color: #f0f0f0;
-    border-left: 5px solid #31708f;
-    margin: 20px 0;
-  }
-</style>
+```css
+blockquote {
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-left: 5px solid #31708f;
+  margin: 20px 0;
+}
+```
 
 > **ⓘ** I am actively seeking a summer 2024 internship or research position, ideally starting between May and June 2024, in fields related to finance, data science, consulting, or statistics. Please feel free to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that aligns with these criteria. I am open to temporary relocation for the position.
-<br>
+
 
 <div style="text-align:center;">
     <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
