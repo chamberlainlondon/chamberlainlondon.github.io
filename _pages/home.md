@@ -5,18 +5,27 @@ author_profile: true
 ---
 ------
 
-Howdy, my name is London Chamberlain. I'm a current undergraduate at [The University of Texas at Austin](https://www.utexas.edu/), majoring in Economics with applications in Computer Science and Finance. I have a keen interest in data analysis and visualization, entrepreneurship, law, and golf course turf management. Years prior, I was a groundskeeper for Omni hotels.
+Howdy, my name is London Chamberlain. I'm a current undergraduate at [The University of Texas at Austin](https://www.utexas.edu/), majoring in Economics with applications in Computer Science and Finance. 
+
+Beyond my studies, I have a keen interest in entrepreneurship, law, and golf course turf management. To fund my education years ago, I became a groundskeeper for Omni hotels.
 
 <style>
     .rounded-image {
+        width: 50%; /* Set the width of the container */
+        margin: 0 auto; /* Center the container horizontally */
         border-radius: 20px; /* Adjust the value to change the roundness of the corners */
         overflow: hidden;
+    }
+    .rounded-image img {
+        width: 100%; /* Make the image fill the container */
+        display: block; /* Ensure proper centering */
     }
 </style>
 
 <div class="rounded-image">
-    <img src="https://chamberlainlondon.github.io/images/PGA_Tour_Greens_Mowing.jpg" alt="PGA Tour Greens Mowing">
+    <img src="PGA_Tour_Greens_Mowing.jpg" alt="PGA Tour Greens Mowing">
 </div>
+
 
 Today, I specialize in creating interactive financial models and [dashboards](https://chamberlainlondon.github.io/portfolio/portfolio-2/) for businesses using tools such as Microsoft Excel with VBA, Power BI, and Python. Additionally, I have practical experience with SQL, R, and Tableau, having applied these skills in various academic projects.
 
