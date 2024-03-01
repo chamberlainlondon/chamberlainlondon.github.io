@@ -18,9 +18,6 @@ I specialize in creating interactive financial models and [dashboards](https://c
   }
 </style>
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
 > **Note:** I am actively seeking a summer 2024 internship or research position, ideally starting between May and June 2024, in fields related to finance, data science, consulting, or statistics. Please feel free to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that aligns with these criteria. I am open to temporary relocation for the position.
 <br>
 
