@@ -29,30 +29,14 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
 This dashboard is updated monthly, maintaining a live connection to ensure it displays the most up-to-date AUM and production information for every advisor in the firm. This project was my first experience using Power BI.
 
 ### Dashboard images:
+<br>
 
 [ ![](https://chamberlainlondon.github.io/images/TFA Dashboard 1.png) ](https://chamberlainlondon.github.io/images/TFA Dashboard 1.png)
 
 <br>
 
-<p align="center">
-  <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 1.png">
-  <br>
-  <em>Dashboard Homepage</em>
-</p>
+[ ![](https://chamberlainlondon.github.io/images/TFA Dashboard 2.png) ](https://chamberlainlondon.github.io/images/TFA Dashboard 2.png)
 
 <br>
 
-<p align="center">
-  <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 2.png">
-  <br>
-  <em>Historical AUM Visualization</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://chamberlainlondon.github.io/images/TFA Dashboard 3.png">
-  <br>
-  <em>Historical Production Visualization</em>
-</p>
-
+[ ![](https://chamberlainlondon.github.io/images/TFA Dashboard 3.png) ](https://chamberlainlondon.github.io/images/TFA Dashboard 3.png)
