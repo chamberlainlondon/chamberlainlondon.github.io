@@ -3,6 +3,9 @@ title: "'Resume Match' Software (2024)"
 excerpt: "Developed a student-centered desktop application that analyzes your resume against a provided job application"
 collection: portfolio
 toc: true
+toc_sticky: true
+toc_label: "Content"
+
 ---
 ------
 
@@ -39,5 +42,3 @@ The script uses several libraries, including [tkinter](https://docs.python.org/3
 # Future Development
 
 In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web. I would also like to supply users additional feedback regarding their resume's content.
-
-{% include toc %}
