@@ -32,7 +32,11 @@ This software was inspired by my experience applying for summer internships, whe
 
 <br>
 
-[ ![Example: Data Analyst - Texas Democratic Party](https://chamberlainlondon.github.io/images/ResumeMatch1.png) ](https://chamberlainlondon.github.io/images/ResumeMatch1.png) [ ![Example: Summer Analyst - Locust Walk](https://chamberlainlondon.github.io/images/ResumeMatch2.png) ](https://chamberlainlondon.github.io/images/ResumeMatch2.png)
+[ ![Example: Data Analyst - Texas Democratic Party](https://chamberlainlondon.github.io/images/ResumeMatch1.png) ](https://chamberlainlondon.github.io/images/ResumeMatch1.png) 
+
+<br>
+
+[ ![Example: Summer Analyst - Locust Walk](https://chamberlainlondon.github.io/images/ResumeMatch2.png) ](https://chamberlainlondon.github.io/images/ResumeMatch2.png)
 
 <br>
 
