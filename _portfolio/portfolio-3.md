@@ -2,7 +2,15 @@
 title: "'Resume Match' Software (2024)"
 excerpt: "Developed a student-centered desktop application that analyzes your resume against a provided job application"
 collection: portfolio
-
+gallery:
+  - url: https://chamberlainlondon.github.io/images/ResumeMatch1.png
+    image_path: https://chamberlainlondon.github.io/images/ResumeMatch1.png
+    alt: "Example: Data Analyst - Texas Democratic Party"
+    title: "Example: Data Analyst - Texas Democratic Party"
+  - url: https://chamberlainlondon.github.io/images/ResumeMatch2.png
+    image_path: https://chamberlainlondon.github.io/images/ResumeMatch2.png
+    alt: "Example: Summer Analyst - Locust Walk"
+    title: "Example: Summer Analyst - Locust Walk"
 ---
 ------
 
@@ -28,15 +36,7 @@ The script uses several libraries, including [tkinter](https://docs.python.org/3
 
 # Example Results
 
-<br>
-
-[ ![Example: Data Analyst - Texas Democratic Party](https://chamberlainlondon.github.io/images/ResumeMatch1.png) ](https://chamberlainlondon.github.io/images/ResumeMatch1.png) 
-
-<br>
-
-[ ![Example: Summer Analyst - Locust Walk](https://chamberlainlondon.github.io/images/ResumeMatch2.png) ](https://chamberlainlondon.github.io/images/ResumeMatch2.png)
-
-<br>
+{% include gallery %}
 
 # Future Development
 
