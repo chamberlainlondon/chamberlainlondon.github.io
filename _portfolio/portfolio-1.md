@@ -8,7 +8,7 @@ During 3 months of my time as a wealth management intern at [The Fox Alliance We
 
 Based on this data, I created a report with data-driven recommendations for The Fox Alliance, which I presented to firm's partners. As a result, our firm began using instant messaging communication, following my recommendation.
 
-# Presentation:
+## Presentation:
 
 <div style="text-align: center;">
     <style>
