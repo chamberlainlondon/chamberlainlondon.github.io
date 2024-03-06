@@ -37,6 +37,8 @@ This software was inspired by my experience applying for summer internships, whe
   <em>Example: Data Analyst - Texas Democratic Party</em>
 </p>
 
+[ ![Example: Data Analyst - Texas Democratic Party](https://chamberlainlondon.github.io/images/ResumeMatch1.png) ](https://chamberlainlondon.github.io/images/ResumeMatch1.png)
+
 <br>
 
 <p align="center">
