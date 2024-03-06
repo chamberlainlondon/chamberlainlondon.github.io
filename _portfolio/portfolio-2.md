@@ -30,6 +30,8 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
 ### Dashboard images:
 
+{% include gallery %}
+
 <br>
 
 <p align="center">
