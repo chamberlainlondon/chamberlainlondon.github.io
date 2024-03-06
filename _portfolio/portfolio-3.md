@@ -8,6 +8,7 @@ tags:
 ---
 ------
 
+{% include toc %}
 
 During the Spring 2024 Semester, I developed a Python program called "Resume Match." This tool aims to help individuals (primarily college students) improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
 
