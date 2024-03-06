@@ -14,8 +14,6 @@ I create interactive financial models and [dashboards](https://chamberlainlondon
 
 Beyond my studies, I have a keen interest in financial analysis, [trail running](http://edsresults.com/txsb22/reports.php?search_type=race_results&event=Marathon&division=Age+Group), true crime novels, 35mm film photography (specifically landscapes), and serving my community alongside my fellow [Texas Blazers](https://www.texasblazers.com/).
 
-<br>
-
 <div style="text-align:center;">
     <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
 </div>
