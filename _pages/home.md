@@ -22,6 +22,10 @@ Beyond my studies, I have a keen interest in financial analysis, [trail running]
 > **Note:** I am actively seeking a summer 2024 internship or research position, ideally starting between May and June 2024, in fields related to finance, data science, consulting, or statistics. Please feel free to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that aligns with these criteria. I am open to temporary relocation for the position.
 <br>
 
+**Note:** I am actively seeking a summer 2024 internship or research position, ideally starting between May and June 2024, in fields related to finance, data science, consulting, or statistics. Please feel free to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that aligns with these criteria. I am open to temporary relocation for the position.
+{: .notice}
+<br>
+
 <div style="text-align:center;">
     <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
 </div>
