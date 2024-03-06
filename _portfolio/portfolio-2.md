@@ -3,16 +3,16 @@ title: "The Fox Alliance AUM and Production Dashboard (2023)"
 excerpt: "Developed a Power BI dashboard that visualized firm KPIs after compiling a database of over 224K entries"
 collection: portfolio
 gallery:
-  - url: images/TFA Dashboard 1.png
-    image_path: images/TFA Dashboard 1.png
+  - url: https://chamberlainlondon.github.io/images/TFA Dashboard 1.png
+    image_path: https://chamberlainlondon.github.io/images/TFA Dashboard 1.png
     alt: "Dashboard Homepage"
     title: "Dashboard Homepage"
-  - url: images/TFA Dashboard 2.png
-    image_path: images/TFA Dashboard 2.png
+  - url: https://chamberlainlondon.github.io/images/TFA Dashboard 2.png
+    image_path: https://chamberlainlondon.github.io/images/TFA Dashboard 2.png
     alt: "Historical AUM"
     title: "Historical AUM"
-  - url: images/TFA Dashboard 3.png
-    image_path: images/TFA Dashboard 3.png
+  - url: https://chamberlainlondon.github.io/images/TFA Dashboard 3.png
+    image_path: https://chamberlainlondon.github.io/images/TFA Dashboard 3.png
     alt: "Historical Production"
     title: "Historical Production"
 ---
