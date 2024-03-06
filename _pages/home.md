@@ -25,5 +25,3 @@ Beyond my studies, I have a keen interest in financial analysis, [trail running]
 <div style="text-align:center;">
     <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
 </div>
-
-[Learn More](#Buttons){: .btn--research}
