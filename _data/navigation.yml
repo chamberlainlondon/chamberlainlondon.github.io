@@ -6,6 +6,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Posts"
+    url: /posts/
+
 #  - title: "Blog"
 #    url: https://medium.com/@london.chamberlain
     
@@ -14,9 +17,6 @@ main:
 
   - title: "Contact"
     url: /contact/
-
-  - title: "Posts"
-    url: /posts/
     
 #  - title: "Guide"
 #    url: /markdown/
