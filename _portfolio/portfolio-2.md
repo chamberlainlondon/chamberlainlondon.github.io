@@ -33,7 +33,7 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
 - AUM growth over time
 - Production growth over time
 
-# Updates
+## Updates
 
 This dashboard is updated monthly, maintaining a live connection to ensure it displays the most up-to-date AUM and production information for every advisor in the firm.
 
