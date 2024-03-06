@@ -31,21 +31,9 @@ This software was inspired by my experience applying for summer internships, whe
 ### Example Results:
 
 <br>
-<p align="center">
-  <img src="https://chamberlainlondon.github.io/images/ResumeMatch1.png" alt="Resume Match 1">
-  <br>
-  <em>Example: Data Analyst - Texas Democratic Party</em>
-</p>
 
-[ ![Example: Data Analyst - Texas Democratic Party](https://chamberlainlondon.github.io/images/ResumeMatch1.png) ](https://chamberlainlondon.github.io/images/ResumeMatch1.png)
+[ ![Example: Data Analyst - Texas Democratic Party](https://chamberlainlondon.github.io/images/ResumeMatch1.png) ](https://chamberlainlondon.github.io/images/ResumeMatch1.png) [ ![Example: Summer Analyst - Locust Walk](https://chamberlainlondon.github.io/images/ResumeMatch2.png) ](https://chamberlainlondon.github.io/images/ResumeMatch2.png)
 
-<br>
-
-<p align="center">
-  <img src="https://chamberlainlondon.github.io/images/ResumeMatch2.png" alt="Resume Match 2">
-  <br>
-  <em>Example: Summer Analyst - Locust Walk</em>
-</p>
 <br>
 
 In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web, and I would like to supply users additional feedback regarding their resume's content.
