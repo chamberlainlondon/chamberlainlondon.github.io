@@ -6,7 +6,7 @@ collection: portfolio
 ---
 ------
 
-{% include toc.html html=content %}
+{% include toc %}
 
 During the Spring 2024 Semester, I developed a Python program called "Resume Match" that compares student resumes to a job description, suggesting relevant keywords to include.
 
