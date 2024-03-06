@@ -11,8 +11,6 @@ tags:
 
 During the Spring 2024 Semester, I developed a Python program called "Resume Match." This tool aims to help individuals (primarily college students) improve their resumes by comparing them to a job application description and suggesting relevant keywords to include.
 
-The script uses several libraries, including [tkinter](https://docs.python.org/3/library/tkinter.html) for creating the graphical user interface (GUI), [nltk](https://www.nltk.org/) for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the [PyMuPDF](https://github.com/pymupdf/PyMuPDF) library for extracting text from PDF resumes.
-
 <style>
   blockquote {
     padding: 10px;
@@ -22,7 +20,13 @@ The script uses several libraries, including [tkinter](https://docs.python.org/3
   }
 </style>
 
-# Brief overview of algorithm:
+# Project Details
+
+## Libraries Used
+
+The script uses several libraries, including [tkinter](https://docs.python.org/3/library/tkinter.html) for creating the graphical user interface (GUI), [nltk](https://www.nltk.org/) for natural language processing tasks such as tokenization, part-of-speech tagging, and lemmatization, and fitz from the [PyMuPDF](https://github.com/pymupdf/PyMuPDF) library for extracting text from PDF resumes.
+
+## Overview of Algorithm
 
 > - **Upload Resume:** Users can upload their resume in PDF or DOCX format. The script reads the file and extracts the text content.
 > - **Extract Verbs and Nouns:** The script analyzes the text of the resume to extract verbs and nouns using NLTK's part-of-speech tagging and lemmatization.
@@ -32,7 +36,7 @@ The script uses several libraries, including [tkinter](https://docs.python.org/3
 
 This software was inspired by my experience applying for summer internships, where I spent hours sifting through each application for keywords to enhance my resume. By highlighting relevant keywords and skills, the tool helps individuals better-align their resumes with job descriptions, demonstrating to employers that they are a good fit for the position.
 
-# Example Results:
+# Example Results
 
 <br>
 
@@ -43,5 +47,7 @@ This software was inspired by my experience applying for summer internships, whe
 [ ![Example: Summer Analyst - Locust Walk](https://chamberlainlondon.github.io/images/ResumeMatch2.png) ](https://chamberlainlondon.github.io/images/ResumeMatch2.png)
 
 <br>
+
+# Future Development
 
 In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web, and I would like to supply users additional feedback regarding their resume's content.
