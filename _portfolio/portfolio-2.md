@@ -1,5 +1,7 @@
 ---
 title: "The Fox Alliance AUM and Production Dashboard (2023)"
+toc: true
+toc_sticky: true
 excerpt: "Developed a Power BI dashboard that visualized firm KPIs after compiling a database of over 224K entries"
 collection: portfolio
 gallery:
@@ -15,17 +17,14 @@ gallery:
     image_path: https://chamberlainlondon.github.io/images/TFA Dashboard 3.png
     alt: "Historical Production"
     title: "Historical Production"
-toc: true
 ---
 ------
 
-{% include toc %}
-
 At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I developed an internal Power BI dashboard that displays firm assets under management (AUM) and production metrics month-over-month (MoM), utilizing a database of over 224K entries. This project was my first experience using Power BI and accentuates my data visualization skills. 
 
-# Project Overview
+## Project Overview
 
-## Content
+### Content
 
 - Total firm AUM
 - Percent of total AUM managed by each advisor
@@ -36,10 +35,10 @@ At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I dev
 - AUM growth over time
 - Production growth over time
 
-## Updates
+### Updates
 
 This dashboard is updated monthly, maintaining a live connection to ensure it displays the most up-to-date AUM and production information for every advisor in the firm.
 
-# Dashboard Images
+## Dashboard Images
 
 {% include gallery caption="Dashboard Homepage, Historical AUM, and Historical Production" %}
