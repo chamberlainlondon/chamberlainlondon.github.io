@@ -30,7 +30,7 @@ This dashboard is updated monthly, maintaining a live connection to ensure it di
 
 ### Dashboard images:
 
-{% include gallery %}
+[![Alt text](Dashboard Homepage)](https://chamberlainlondon.github.io/images/TFA Dashboard 1.png)
 
 <br>
 
