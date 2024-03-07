@@ -311,3 +311,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# theme: jekyll-theme-midnight
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin2: "dark"
