@@ -14,8 +14,6 @@ gallery:
 ---
 ------
 
-{% include toc %}
-
 During the Spring 2024 Semester, I developed a Python program called "Resume Match" that compares student resumes to a job description, suggesting relevant keywords to include.
 
 This software was inspired by my experience applying for summer internships, where I spent hours sifting through applications for keywords to enhance my resume. By highlighting relevant keywords and skills, the tool helps individuals better-align their resumes with job descriptions, demonstrating to employers that they are a good fit for the position.
