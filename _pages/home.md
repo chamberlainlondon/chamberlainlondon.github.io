@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-Howdy! My name is London Chamberlain, and I'm an undergraduate at [The University of Texas at Austin](https://www.utexas.edu/), majoring in Economics with relevant courses in Computer Science, Statistics, and Finance. 
+Howdy! My name is London Chamberlain, and I'm an undergraduate at [The University of Texas at Austin](https://www.utexas.edu/), majoring in Economics with applications in Computer Science, Statistics, and Finance. 
 
 I create robust financial models and [dashboards](https://chamberlainlondon.github.io/portfolio/portfolio-2/) for businesses using tools like Microsoft Excel, Visual Basic for Applications (VBA), Microsoft Power BI, and Python. I have experience using SQL, R, and Tableau in various academic projects, and I consistently develop my skills.
 
