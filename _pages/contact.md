@@ -2,6 +2,14 @@
 title: "Contact"
 sitemap: false
 permalink: /contact/
+excerpt: "This post should [...]"
+header:
+  overlay_image: images/PGA_Greyscale.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**PGA of America**](https://www.pga.com/)"
+  actions:
+    - label: "Learn More"
+      url: "https://github.com"
 ---
 ------
 Feel free to contact me at <london.chamberlain@utexas.edu>, get in touch via [LinkedIn](https://www.linkedin.com/in/londonchamberlain), or reach out to me directly below. 
