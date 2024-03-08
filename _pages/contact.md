@@ -2,14 +2,14 @@
 title: "Contact"
 sitemap: false
 permalink: /contact/
-excerpt: "This post should [...]"
+excerpt: "Where to reach me:"
 header:
-  overlay_image: images/PGA_Greyscale.jpg
+  overlay_image: https://chamberlainlondon.github.io/images/PGA_Greyscale.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**PGA of America**](https://www.pga.com/)"
   actions:
     - label: "Learn More"
-      url: "https://github.com"
+      url: "https://www.linkedin.com/in/londonchamberlain/details/experience/1635520462386/single-media-viewer/?profileId=ACoAADnme2QBpqVseaJ4tkiN1y_jkiWCMt7DQtU"
 ---
 ------
 Feel free to contact me at <london.chamberlain@utexas.edu>, get in touch via [LinkedIn](https://www.linkedin.com/in/londonchamberlain), or reach out to me directly below. 
