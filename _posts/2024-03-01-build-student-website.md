@@ -55,6 +55,8 @@ Tip: Make small changes one-by-one and test the effects. Making multiple commits
 
 ## Moving Forward & Resources
 
+Check out my next post that delves into how to customize your site to your liking: link
+
 ### Resources
 
 <details>
