@@ -13,23 +13,53 @@ It is easier than ever before to create a personal website thanks to services li
 
 Alternatively, if you're interested in creating a more unique student site you can tinker with and control more of, I'll teach you how to create a site like [this one](www.londonchamberlain.com) with little coding experience:
 
-# Why Should I Build a Student Website?
+# Why Build a Student Website?
 
 Creating a personal website can be a game-changer for students, offering a dynamic platform to showcase achievements, skills, and passions. It's not just about impressing others; it's about crafting a unique online identity that sets you apart in a competitive world. Through your website, you can paint a vivid picture of who you are, what you've accomplished, and where you're headed, leaving a lasting impression on users. Plus, building and maintaining a website isn't just about the end product; it's a learning journey that hones valuable digital skills like web design, coding, and SEO—skills that are increasingly useful today. Your website isn't just a one-time project; it's a long-term investment in yourself.
 
-# How to Build a Static Site
+# How to Build a Student Site
 
 Now that we know why you should build a site of your own, how can we actually do it? Although there are many approaches a student can take to launch their own personal website, this guide is going to focus on developing an Academic Pages static site using Github to store and deploy the code, and Porkbun (optional) to attach a custom domain.
 
-## Using Github
+## Using GitHub
 
-Register account.
+If you don't already have a GitHub account, no worries. It's easy to sign up.
+
+1. First, Navigate to [GitHub](https://github.com/).
+2. Click Sign up.
+3. Follow the prompts to create your personal account.
+
+During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.
+
+If you're having problems verifying your email address, there are some troubleshooting steps you can take. For more information, see "[Verifying your email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/verifying-your-email-address#troubleshooting-email-verification)."
 
 ### Forking Repositories
 
-Link to Academic Pages. 
+Once we're signed up for GitHub, we'll want to fork a respository. The site we'll be creating in this tutorial uses the repository, Academic Pages, as the foundation for our site. We'll fork this to get started. 
 
-Images of forking.
+If you've never forked a repository before, don't worry. We'll walk through how to fork the Academic Pages repository below:
+
+1. On GitHub.com, navigate to the [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) repository.
+
+2. In the top-right corner of the page, click Fork.
+
+Insert image of forking here. Alt caption: Screenshot of the main page of repository. A button, labeled with a fork icon and "Fork 59.3k," is outlined in dark orange.
+
+3. Under "Owner," select the dropdown menu and click an owner for the forked repository.
+
+4. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
+
+5. Optionally, in the "Description" field, type a description of your fork.
+
+6. Optionally, select Copy the DEFAULT branch only.
+
+For many forking scenarios, such as contributing to open-source projects, you only need to copy the default branch. If you do not select this option, all branches will be copied into the new fork.
+
+7. Click Create fork.
+
+### Accessing Repository via Local Computer (optional)
+
+#### Syncing Cloned Repository to GitHub (optional)
 
 Once your site is forked to your very own repository, you'll want to deploy it for the world to see! Don't worry, you can come back after to make more changes.
 
@@ -56,6 +86,8 @@ Tip: Make small changes one-by-one and test the effects. Making multiple commits
 ## Moving Forward & Resources
 
 Check out my next post that delves into how to customize your site to your liking: link
+
+If you'd like to alter your site in a way I haven't covered, check out the issues page of the Academic Pages repository, linked [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aissue). Other users like yourself have 
 
 ### Resources
 
