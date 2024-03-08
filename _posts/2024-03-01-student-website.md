@@ -41,7 +41,7 @@ It is easier than ever before to create a personal website today thanks to servi
 
 <details>
   <summary><b>Static Sites That Inspire Me</b><br>
-  <i>Take a look at the code nested in these sites if you like a particular feature!</i>
+  <i>Check out the code behind these sites if you like a particular feature!</i>
 </summary>
   <br>
   <p>
