@@ -1,5 +1,5 @@
 ---
-title: 'How to Build a Student Website and Why You Should'
+title: 'How to Build a Unique Student Website and Why You Should'
 date: 2024-03-11
 permalink: /posts/2024/03/student-website/
 collection: posts
