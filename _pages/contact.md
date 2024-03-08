@@ -2,6 +2,7 @@
 title: "Contact"
 sitemap: false
 permalink: /contact/
+excerpt: "Feel free to contact me at <london.chamberlain@utexas.edu>, get in touch via [LinkedIn](https://www.linkedin.com/in/londonchamberlain), or reach out to me directly below."
 header:
   overlay_image: https://chamberlainlondon.github.io/images/PGA_Greyscale.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -11,7 +12,6 @@ header:
       url: "https://www.linkedin.com/in/londonchamberlain/details/experience/1635520462386/single-media-viewer/?profileId=ACoAADnme2QBpqVseaJ4tkiN1y_jkiWCMt7DQtU"
 ---
 ------
-Feel free to contact me at <london.chamberlain@utexas.edu>, get in touch via [LinkedIn](https://www.linkedin.com/in/londonchamberlain), or reach out to me directly below. 
 
 <form accept-charset="UTF-8" action="https://www.formbackend.com/f/97be09fe91e26702" method="POST">
   <label for="name">Name</label>
