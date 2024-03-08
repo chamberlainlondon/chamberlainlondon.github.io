@@ -2,7 +2,6 @@
 title: "Contact"
 sitemap: false
 permalink: /contact/
-excerpt: "Where to reach me:"
 header:
   overlay_image: https://chamberlainlondon.github.io/images/PGA_Greyscale.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
