@@ -1,5 +1,5 @@
 ---
-title: 'How to Build a Unique Student Website and Why You Should'
+title: 'How to Build a Unique Student Website and Why You Should (Using Academic Pages, a fork of Minimal Mistakes)'
 date: 2024-03-11
 permalink: /posts/2024/03/build-student-website/
 collection: posts
@@ -15,17 +15,35 @@ Alternatively, if you're interested in creating a more unique student site you c
 
 # Why Should I Build a Student Website?
 
+Creating a personal website can be a game-changer for students, offering a dynamic platform to showcase achievements, skills, and passions. It's not just about impressing others; it's about crafting a unique online identity that sets you apart in a competitive world. Through your website, you can paint a vivid picture of who you are, what you've accomplished, and where you're headed, leaving a lasting impression on users. Plus, building and maintaining a website isn't just about the end product; it's a learning journey that hones valuable digital skills like web design, coding, and SEO—skills that are increasingly useful today. Your website isn't just a one-time project; it's a long-term investment in yourself.
+
 # How to Build a Static Site
+
+Now that we know why you should build a site of your own, how can we actually do it? Although there are many approaches a student can take to launch their own personal website, this guide is going to focus on developing an Academic Pages static site using Github to store and deploy the code, and Porkbun (optional) to attach a custom domain.
 
 ## Using Github
 
+Register account.
+
 ### Forking Repositories
 
+Link to Academic Pages. 
+
+Images of forking.
+
+Once your site is forked to your very own repository, you'll want to deploy it for the world to see! Don't worry, you can come back after to make more changes.
+
 ### Deploying Site
+
+Settings > Pages > Deploy from Master Branch
+
+Current bugs with fork, how to launch site correctly.
 
 ## Customizing Your Site
 
 ### Making Changes Locally
+
+Tip: Make small changes one-by-one and test the effects. Making multiple commits and alterations often ends up with unexpected results where developers don't know where the issues lie.
 
 ### Pushing Changes to Web
 
@@ -36,8 +54,6 @@ Alternatively, if you're interested in creating a more unique student site you c
 ### Connecting Domain to Static Site
 
 ## Moving Forward & Resources
-
-
 
 ### Resources
 
