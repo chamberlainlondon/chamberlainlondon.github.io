@@ -11,7 +11,7 @@ tags:
 
 It is easier than ever before to create a personal website thanks to services like [google sites](https://sites.google.com/new?tgif=d), [squarespace](https://www.squarespace.com/), and [wix](https://www.wix.com/). However, building a site using one of these platforms can often feel repetetive and uninspiring, as countless other users are following the same templates to generate their sites. 
 
-Alternatively, if you're interested in creating a more unique student site you can tinker with and control more of, I'll teach you how to create a site like [mine](www.londonchamberlain.com) with little coding experience:
+Alternatively, if you're interested in creating a more unique student site you can tinker with and control more of, I'll teach you how to create a site like [this one](www.londonchamberlain.com) with little coding experience:
 
 # Why Should I Build a Student Website?
 
