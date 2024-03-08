@@ -1,7 +1,5 @@
 ---
 title: "The Fox Alliance AUM and Production Dashboard (2023)"
-toc: true
-toc_sticky: true
 excerpt: "Developed a Power BI dashboard that visualized firm KPIs after compiling a database of over 224K entries"
 collection: portfolio
 gallery:
