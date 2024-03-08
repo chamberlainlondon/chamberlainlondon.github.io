@@ -44,8 +44,8 @@ Since December 2023, I have served as a pro bono technology consultant for James
 
 ### Texas Blazers
 
-- Fundraising Committee, Spring 2024
-- Selections Committee, Spring 2024
+- Fundraising Committee Member, Spring 2024
+- Selections Committee Member, Spring 2024
 
 ### Collegiate DECA
 
