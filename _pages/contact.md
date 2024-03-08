@@ -8,8 +8,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**PGA of America**](https://www.pga.com/)"
   actions:
-    - label: "Learn More"
-    - url: "https://www.linkedin.com/in/londonchamberlain/details/experience/1635520462386/single-media-viewer/?profileId=ACoAADnme2QBpqVseaJ4tkiN1y_jkiWCMt7DQtU"
+    - label: "Learn More" 
+      url: "https://www.linkedin.com/in/londonchamberlain/details/experience/1635520462386/single-media-viewer/?profileId=ACoAADnme2QBpqVseaJ4tkiN1y_jkiWCMt7DQtU"
 ---
 ------
 
