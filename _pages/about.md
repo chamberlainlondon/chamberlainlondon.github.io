@@ -58,8 +58,6 @@ Since December 2023, I have served as a pro bono technology consultant for James
 - Honors in Action Officer, Austin Community College, Spring 2023
 - College Project Officer, Austin Community College, Fall 2022
 
-### Austin Community College Collegiate DECA, Human Resources Officer
-
 ## Licenses and Certifications
 
 ### Harvard Professional Certificate in Computer Science for Python Programming (In progress)
