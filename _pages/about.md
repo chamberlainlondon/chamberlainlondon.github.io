@@ -23,7 +23,7 @@ permalink: /about/
 
 ## Professional Experience
 
-### The Fox Alliance Wealth Management
+### Wealth Management Intern, The Fox Alliance Wealth Management
 
 Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). At The Fox Alliance, I have fallen into a data analytics role, creating financial models and dashboards for the firm. Some of my most notable achievements include:
 
@@ -33,12 +33,32 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 - Overhauling client-facing investment proposal document using Excel and Visual Basic for Applications so financial calculations and document manipulation are systemized and automated.
 - Hiring and directing a technology consultant and data analytics team to double data analytics output for firm.
 
-### James A Baker + Coaching
+### Technology Consultant, James A Baker + Coaching
 
-Since December 2023, I have served as a technology consultant for James A Baker + Coaching. To date, I have:
+Since December 2023, I have served as a pro bono technology consultant for James A Baker + Coaching. To date, I have:
 
 - Modified technology infrastructure by transitioning CRM and scheduling software to achieve 20% reduction in annual expenses.
 - Enhanced HubSpot CRM and OnceHub client scheduling software by monitoring planned client meetings and lead conversion rates.
+
+## University Leadership
+
+### Texas Blazers
+
+- Fundraising Committee, Spring 2024
+- Selections Committee, Spring 2024
+
+### Collegiate DECA
+
+- Vice President, Texas, Spring 2023 - Fall 2023
+- Human Resources Officer, Austin Community College, Fall 2022 - Spring 2023
+
+### Phi Theta Kappa International Honor Society
+
+- Alumni Member, Fall 2023 - Present
+- Honors in Action Officer, Austin Community College, Spring 2023
+- College Project Officer, Austin Community College, Fall 2022
+
+### Austin Community College Collegiate DECA, Human Resources Officer
 
 ## Licenses and Certifications
 
