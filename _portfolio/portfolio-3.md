@@ -11,7 +11,6 @@ gallery:
     image_path: https://chamberlainlondon.github.io/images/ResumeMatch2.png
     alt: "Example: Summer Analyst - Locust Walk"
     title: "Example: Summer Analyst - Locust Walk"
-date: 2024-02-16
 ---
 ------
 
