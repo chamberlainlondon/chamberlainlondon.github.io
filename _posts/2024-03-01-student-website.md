@@ -45,10 +45,12 @@ It is easier than ever before to create a personal website today thanks to servi
 </summary>
   <br>
   <p>
-    - Check out Giulio Schinaia's <a href="https://gschinaia.github.io/">academic site</a>. I especially like Giulio's use of the light/dark toggle button.
-    - Rob Williams'<a href="https://jayrobwilliams.com/">academic site</a> boasts a wealth of static site knowledge for you to dig through. I've implemented so many aspects of Rob's site in my own. Rob's own <a href="https://jayrobwilliams.com/posts/2020/06/academic-website/">post</a> about creating an academic site was the inspiration for this post. Sorry for the theft, Rob.
-    - Antoine Soetewey's <a href="https://www.socialscienceregistry.org/trials/4740">personal site</a> is elite. His R blog and use of an English/French language toggle are both super fascinating to check out.
-  </p>
+    <ul>
+      <li>Check out Giulio Schinaia's <a href="https://gschinaia.github.io/">academic site</a>. I especially like Giulio's use of the light/dark toggle button.</li>
+      <li>Rob Williams' <a href="https://jayrobwilliams.com/">academic site</a> boasts a wealth of static site knowledge for you to dig through. I've implemented so many aspects of Rob's site in my own using his commit history, as well as his posts. Rob's own <a href="https://jayrobwilliams.com/posts/2020/06/academic-website/">post</a> about creating an academic site was the inspiration for this post. Sorry for the theft, Rob.</li>
+      <li>Antoine Soetewey's <a href="https://www.socialscienceregistry.org/trials/4740">personal site</a> is elite. His R blog and use of an English/French language toggle are both super fascinating to check out.</li>
+    </ul>
+</p>
 </details>
 <br>
 
