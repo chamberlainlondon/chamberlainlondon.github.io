@@ -9,24 +9,28 @@ tags:
   - 
 ---
 
-It is easier than ever before to create a personal website thanks to services like [google sites](https://sites.google.com/new?tgif=d), [squarespace](https://www.squarespace.com/), and [wix](https://www.wix.com/). However, building a site using one of these platforms can often feel repetetive and uninspiring, as countless other users are following the same templates to generate their sites. 
+It is easier than ever to create a student website using services like [google sites](https://sites.google.com/new?tgif=d), [squarespace](https://www.squarespace.com/), and [wix](https://www.wix.com/). However, building a site using one of these platforms can often feel repetetive and uninspiring, as countless other users are following the same templates to generate sites. 
 
-Alternatively, if you're interested in creating a more unique student site you can tinker with and control more of, I'll teach you how to create a site like [this one](www.londonchamberlain.com) with little coding experience:
+If you're interested in creating a more unique student site you can tinker with and control more of, I'll teach you how to create a site like [this one](https://londonchamberlain.com/) with little coding experience:
 
 # Why Build a Student Website?
 
-Creating a personal website can be a game-changer for students, offering a dynamic platform to showcase achievements, skills, and passions. It's not just about impressing others; it's about crafting a unique online identity that sets you apart in a competitive world. Through your website, you can paint a vivid picture of who you are, what you've accomplished, and where you're headed, leaving a lasting impression on users. Plus, building and maintaining a website isn't just about the end product; it's a learning journey that hones valuable digital skills like web design, coding, and SEO—skills that are increasingly useful today. Your website isn't just a one-time project; it's a long-term investment in yourself.
+Creating a personal website can be a game-changer for students. Your student site can be a dynamic platform to showcase achievements, skills, and passions. It's not just about impressing others; it's about crafting an online identity that sets you apart in a competitive world. 
+
+Through your website, you can paint a vivid picture of who you are, what you've accomplished, and where you're headed, leaving a lasting impression on users. Plus, building and maintaining a website isn't just about the end product; it's a learning journey that hones valuable digital skills like web design, coding, and [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)—skills that are increasingly useful today. Your website isn't just a one-time project--it's a long-term investment in yourself.
+
+Let's learn how to create one together!
 
 # How to Build a Student Site
 
-Now that we know why you should build a site of your own, how can we actually do it? Although there are many approaches a student can take to launch their own personal website, this guide is going to focus on developing an Academic Pages static site using Github to store and deploy the code, and Porkbun (optional) to attach a custom domain.
+Now that you know why you should build a site of your own, how can we actually do it? Although there are many approaches a user can take to launch their own student site, this guide is going to focus on developing an [AcademicPages](https://academicpages.github.io/) static site using Github to store and deploy the code, and [Porkbun](https://porkbun.com/) (optional) to attach your unique domain name.
 
 ## Using GitHub
 
 If you don't already have a GitHub account, no worries. It's easy to sign up.
 
 1. First, Navigate to [GitHub](https://github.com/).
-2. Click Sign up.
+2. Enter your email address and click "Sign up for GitHub."
 3. Follow the prompts to create your personal account.
 
 During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.
@@ -43,7 +47,7 @@ If you've never forked a repository before, don't worry. We'll walk through how 
 
 2. In the top-right corner of the page, click Fork.
 
-Insert image of forking here. Alt caption: Screenshot of the main page of repository. A button, labeled with a fork icon and "Fork 59.3k," is outlined in dark orange.
+![Screenshot of the main page of repository. A button, labeled with a fork icon and "Fork 59.3k," is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/fork.png)
 
 3. Under "Owner," select the dropdown menu and click an owner for the forked repository.
 
@@ -65,9 +69,22 @@ Once your site is forked to your very own repository, you'll want to deploy it f
 
 ### Deploying Site
 
-Settings > Pages > Deploy from Master Branch
+To check your site out on the web, we'll lastly need to deploy it. To deploy:
+
+1. Under your repository name, click **Settings**. If you cannot see the "Settings" tab, select the **...** dropdown menu, then click **Settings**.
+
+2. In the "Code and automation" section of the sidebar, click **Pages**.
+
+3. Under "Build and deployment", under "Source", select **Deploy from a branch**.
+
+4. Under "Build and deployment", use the branch dropdown menu and select a publishing source. I publish from the main branch.
+
+![Screenshot of the pages page of the settings tab. A button, labeled with "None" and a carrot icon is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/branch.png)
+
+5. Optionally, use the folder dropdown menu to select a folder for your publishing source. I use /(root).
 
 Current bugs with fork, how to launch site correctly.
+{: .notice--warning}
 
 ## Customizing Your Site
 
