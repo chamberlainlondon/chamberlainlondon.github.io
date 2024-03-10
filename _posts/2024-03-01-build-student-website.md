@@ -4,6 +4,7 @@ date: 2024-03-11
 permalink: /posts/2024/03/build-student-website/
 collection: posts
 toc: true
+read_time: true
 excerpt: ""
 header:
   overlay_image: https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/code.jpg
@@ -98,25 +99,74 @@ To check your site out on the web, we'll lastly need to deploy it. To deploy:
 Due to regular Jekyll theme updates, your AcademicPages fork of Minimal Mistakes may not deploy the first time you try[^1]. If this is the case, head over to the [issues]() tab of the AcademicPages repository and read the solutions provided.
 {: .notice--danger}
 
-## Customizing Your Site
+# How to Customize your Site
 
 Now that we've got a working site, we'll want to make some changes. To begin, play around with the **_config.yml** variables in your files. Many of your variables can be updated in the **# Site Settings** and **# Site Author** sections, like follows:
 
-![Screenshot of the site settings section of the _config.yml file.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/site-settings.png)
+```markdown
+# Site Settings
+locale                   : "en-US"
+title                    : "Home"
+title_separator          : "-"
+name                     : &name "London Chamberlain"
+description              : &description "personal description"
+url                      : https://www.londonchamberlain.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "chamberlainlondon/chamberlainlondon.github.io"
+```
 
-<br>
+```markdown
+# Site Author
+author:
+  name             : "London Chamberlain"
+  avatar           : "London_Headshot_Greyscale_Background.png"
+  bio              : "Economics @ The University of Texas at Austin"
+  location         : "Austin, TX"
+  employer         : 
+  pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # example: "http://yourfullgooglescholarurl.com"
+  email            : "london.chamberlain@utexas.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "chamberlainlondon"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "londonchamberlain"
+  medium           : 
+  orcid            : "http://orcid.org/0009-0008-6432-8474"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : # example: "replacethistwitterhandle"
+  upwork           : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+```
 
-![Screenshot of the site author section of the _config.yml file.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/site-author.png)
-
-<br>
-
-### Making Changes Locally
+## Local Changes
 
 Tip: Make small changes one-by-one and test the effects. Making multiple commits and alterations often ends up with unexpected results where developers don't know where the issues lie.
+{: .notice--warning}
 
-### Pushing Changes to Web
+## Pushing to Web
 
 ## Using Custom Web Domain
+
+Using a custom web domain when 
 
 ### Purchasing a Domain
 
