@@ -1,5 +1,5 @@
 ---
-title: 'How to Build a Unique Student Website and Why You Should (Using Academic Pages, a fork of Minimal Mistakes)'
+title: 'How to Build a Unique Student Website and Why You Should (Using AcademicPages, a fork of Minimal Mistakes)'
 date: 2024-03-11
 permalink: /posts/2024/03/build-student-website/
 collection: posts
@@ -95,10 +95,20 @@ To check your site out on the web, we'll lastly need to deploy it. To deploy:
 
 5. Optionally, use the folder dropdown menu to select a folder for your publishing source. I use /(root).
 
-Current bugs with fork, how to launch site correctly.
-{: .notice--warning}
+Due to regular Jekyll theme updates, your AcademicPages fork of Minimal Mistakes may not deploy the first time you try[^1]. If this is the case, head over to the [issues]() tab of the AcademicPages repository and read the solutions provided.
+{: .notice--danger}
 
 ## Customizing Your Site
+
+Now that we've got a working site, we'll want to make some changes. To begin, play around with the **_config.yml** variables in your files. Many of your variables can be updated in the **# Site Settings** and **# Site Author** sections, like follows:
+
+![Screenshot of the site settings section of the _config.yml file.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/site-settings.png)
+
+<br>
+
+![Screenshot of the site author section of the _config.yml file.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/site-author.png)
+
+<br>
 
 ### Making Changes Locally
 
