@@ -47,7 +47,11 @@ If you've never forked a repository before, don't worry. We'll walk through how 
 
 2. In the top-right corner of the page, click Fork.
 
+<br>
+
 ![Screenshot of the main page of repository. A button, labeled with a fork icon and "Fork 59.3k," is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/fork.png)
+
+<br>
 
 3. Under "Owner," select the dropdown menu and click an owner for the forked repository.
 
@@ -79,7 +83,11 @@ To check your site out on the web, we'll lastly need to deploy it. To deploy:
 
 4. Under "Build and deployment", use the branch dropdown menu and select a publishing source. I publish from the main branch.
 
+<br>
+
 ![Screenshot of the pages page of the settings tab. A button, labeled with "None" and a carrot icon is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/branch.png)
+
+<br>
 
 5. Optionally, use the folder dropdown menu to select a folder for your publishing source. I use /(root).
 
