@@ -4,6 +4,7 @@ date: 2024-03-11
 permalink: /posts/2024/03/build-student-website/
 collection: posts
 toc: true
+excerpt: ""
 header:
   overlay_image: https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/code.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
