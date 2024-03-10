@@ -195,5 +195,4 @@ If you'd like to alter your site in a way I haven't covered, check out the issue
 </details>
 <br>
 
-Include references here.
 [^1]: Although errors change as the Jekyll theme changes, [this](https://github.com/academicpages/academicpages.github.io/issues/1902#issuecomment-1943783816) was the solution to my deploy error when I first began.
