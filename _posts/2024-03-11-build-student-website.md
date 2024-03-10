@@ -97,7 +97,7 @@ To check your site out on the web, we'll lastly need to deploy it. To deploy:
 
 5. Optionally, use the folder dropdown menu to select a folder for your publishing source. I use /(root).
 
-Due to regular Jekyll theme updates, your AcademicPages fork of Minimal Mistakes may not deploy the first time you try[^1]. If this is the case, head over to the [issues]() tab of the AcademicPages repository and read the solutions provided.
+Due to regular Jekyll theme updates, your AcademicPages fork of Minimal Mistakes may fail to deploy the first time you try[^1]. If your build fails, head over to the [issues]() tab of the AcademicPages repository and read issues about "deploy." The more recent issues will likely show more relevant answers.
 {: .notice--danger}
 
 # How to Customize your Site
