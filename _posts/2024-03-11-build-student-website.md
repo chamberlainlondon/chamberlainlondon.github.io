@@ -6,7 +6,7 @@ collection: posts
 toc: true
 excerpt: read_time
 header:
-  overlay_image: https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/code.jpg
+  overlay_image: https://chamberlainlondon.github.io/images/posts/2024-03-11-build-student-website/code.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
   caption: "Photo credit: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Programming_code.jpg)"
 tags:
@@ -55,7 +55,7 @@ If you've never forked a repository before, don't worry. We'll walk through how 
 
 <br>
 
-![Screenshot of the main page of repository. A button, labeled with a fork icon and "Fork 59.3k," is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/fork.png)
+![Screenshot of the main page of repository. A button, labeled with a fork icon and "Fork 59.3k," is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-11-build-student-website/fork.png)
 
 <br>
 
@@ -91,7 +91,7 @@ To check your site out on the web, we'll lastly need to deploy it. To deploy:
 
 <br>
 
-![Screenshot of the pages page of the settings tab. A button, labeled with "None" and a carrot icon is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-01-build-student-website/branch.png)
+![Screenshot of the pages page of the settings tab. A button, labeled with "None" and a carrot icon is outlined in dark orange.](https://chamberlainlondon.github.io/images/posts/2024-03-11-build-student-website/branch.png)
 
 <br>
 
