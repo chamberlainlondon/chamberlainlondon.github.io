@@ -238,7 +238,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      date: false
   # _talks
   - scope:
       path: ""
