@@ -19,15 +19,23 @@ gallery:
 ---
 ------
 
-During the Spring 2024 Semester, I created a Microsoft Excel Model for [The Fox Alliance Wealth Advisors](https://foxalliancewealth.com/) that generates a client-facing investment proposal based on the financial advisor's input.
+At [The Fox Alliance Wealth Advisors](https://foxalliancewealth.com/), I created a Microsoft Excel Model that generates a presentable investment portfolio report using financial advisor input.
 
 This model reduces manual calculations by 100% and allows financial advisors to focus on client needs. It is currently used by every advisor in the company.
 
-## Example Input
+# Project Details
+
+## Model Overview
+
+- **User Input:** Financial advisors enter client investment data to model.
+- **Calculations:** Model calculates investment portfolio based on data provided by user.
+- **Formatting:** Model formats potfolio values into intelligible report that the advisor can print and present to client.
+
+## Sample Input
 
 {% include gallery %}
 
-## Example Results
+## Sample Results
 
   <iframe
       src="https://chamberlainlondon.github.io/images/portfolio/portfolio-4/Doe_Investment_Proposal.pdf"
