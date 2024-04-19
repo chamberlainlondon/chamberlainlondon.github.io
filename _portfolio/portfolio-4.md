@@ -29,7 +29,7 @@ This model reduces manual calculations by 100% and allows financial advisors to 
 
 - **User Input:** Financial advisors enter client investment data to model.
 - **Calculations:** Model calculates investment portfolio based on data provided by user.
-- **Formatting:** Model formats potfolio values into intelligible report that the advisor can print and present to client.
+- **Formatting:** Model formats potfolio values into intelligible report that advisors can print and present to clients.
 
 ## Sample Input
 
