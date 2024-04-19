@@ -7,15 +7,15 @@ gallery:
     image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA1.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
- - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA2.png
+  - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA2.png
     image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA2.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
- - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA3.png
+  - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA3.png
     image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA3.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
- - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA4.png
+  - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA4.png
     image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA4.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
