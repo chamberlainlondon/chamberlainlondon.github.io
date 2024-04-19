@@ -3,20 +3,20 @@ title: "Investment Proposal Model (2024)"
 excerpt: "Developed and deployed automated model that generates a client investment proposal based on financial advisor input"
 collection: portfolio
 gallery:
-  - url: https://chamberlainlondon.github.io/images/portfolio-4/IPA1.png
-    image_path: https://chamberlainlondon.github.io/images/portfolio-4/IPA1.png
+  - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA1.png
+    image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA1.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
-  - url: https://chamberlainlondon.github.io/images/portfolio-4/IPA2.png
-    image_path: https://chamberlainlondon.github.io/images/portfolio-4/IPA2.png
+ - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA2.png
+    image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA2.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
-  - url: https://chamberlainlondon.github.io/images/portfolio-4/IPA3.png
-    image_path: https://chamberlainlondon.github.io/images/portfolio-4/IPA3.png
+ - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA3.png
+    image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA3.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
-  - url: https://chamberlainlondon.github.io/images/portfolio-4/IPA4.png
-    image_path: https://chamberlainlondon.github.io/images/portfolio-4/IPA4.png
+ - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA4.png
+    image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA4.png
     alt: "Example Inputs: Investment Proposal Model"
     title: "Example Inputs: Investment Proposal Model"
 ---
