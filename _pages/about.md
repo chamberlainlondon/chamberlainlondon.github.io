@@ -45,8 +45,9 @@ Since December 2023, I have served as a pro bono technology consultant for James
 
 ### [Texas Blazers](https://www.texasblazers.com/)
 
-- Fundraising Committee Member, Spring 2024
-- Selections Committee Member, Spring 2024
+- Vice Chair of Fundraising, The University of Texas at Austin, Fall 2024 - Spring 2025
+- Fundraising Committee Member, The University of Texas at Austin, Spring 2024
+- Selections Committee Member, The University of Texas at Austin, Spring 2024
 
 ### [Collegiate DECA](https://www.deca.org/collegiate)
 
