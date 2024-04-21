@@ -24,19 +24,19 @@ As a Wealth Management Intern at [The Fox Alliance Wealth Advisors](https://www.
 
 This model reduces advisor calculations by 100% and allows the team to focus on client needs. It is currently used by every advisor at The Fox Alliance.
 
-# Project Details
+## Project Overview
 
-## Model Overview
+### Model Details
 
 - **User Input:** Financial advisors enter client investment inputs to model.
 - **Calculations:** Model calculates investment portfolio based on data provided by user.
 - **Formatting:** Model formats potfolio values into intelligible report that advisors print and present to clients.
 
-## Sample Input
+### Sample Input
 
 {% include gallery %}
 
-## Sample Results
+### Sample Results
 
   <iframe
       src="https://chamberlainlondon.github.io/images/portfolio/portfolio-4/Doe_Investment_Proposal.pdf"
@@ -44,6 +44,6 @@ This model reduces advisor calculations by 100% and allows the team to focus on 
       height="600px"
   ></iframe>
 
-## Download this Model
+### Download this Model
 
 <a href="https://chamberlainlondon.github.io/files/Investment Proposal Template.xlsm" download>Download Investment Proposal Template</a>
