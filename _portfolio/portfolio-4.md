@@ -22,7 +22,7 @@ gallery:
 
 As a Wealth Management Intern at [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com), I developed a sophisticated Microsoft Excel model that produces polished wealth management investment proposal reports tailored to user (financial advisor) inputs. Every advisor presents this report in investment proposal meetings to help clients best understand their tailored portfolio.
 
-This model reduces advisor calculations by 100% and allows the team to focus on client needs. It is currently used by every advisor at The Fox Alliance.
+This model reduces advisor investment proposal calculations by 100% and allows the team to focus on client needs. It is currently used by every advisor at The Fox Alliance.
 
 ## Project Overview
 
