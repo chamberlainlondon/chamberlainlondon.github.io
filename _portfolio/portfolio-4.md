@@ -46,4 +46,4 @@ This model reduces advisor calculations by 100% and allows the team to focus on 
 
   ## Download this Model
 
-  <a href="link/to/your/download/file" download>Download link</a>
+  <a href="https://chamberlainlondon.github.io/files/Investment Proposal Template.xlsm" download>Download link</a>
