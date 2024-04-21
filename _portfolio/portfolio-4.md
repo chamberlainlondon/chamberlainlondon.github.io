@@ -1,6 +1,6 @@
 ---
-title: "Investment Proposal Model (2024)"
-excerpt: "Developed and deployed automated model that generates a client investment proposal based on financial advisor input"
+title: "The Fox Alliance Investment Proposal Model (2024)"
+excerpt: "Developed and deployed automated model that generates a client investment portfolio based on financial advisor input"
 collection: portfolio
 gallery:
   - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA1.png
@@ -19,17 +19,18 @@ gallery:
 ---
 ------
 
-At [The Fox Alliance Wealth Advisors](https://foxalliancewealth.com/), I created a Microsoft Excel Model that generates a presentable investment portfolio report using financial advisor input.
 
-This model reduces manual calculations by 100% and allows financial advisors to focus on client needs. It is currently used by every advisor in the company.
+At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com), I developed a sophisticated Microsoft Excel model that produces polished wealth management investment proposal reports tailored to user (financial advisor) inputs. Every advisor presents this report in investment proposal meetings to help clients best understand their tailored portfolio.
+
+This model reduces advisor calculations by 100% and allows the team to focus on client needs. It is currently used by every advisor at The Fox Alliance.
 
 # Project Details
 
 ## Model Overview
 
-- **User Input:** Financial advisors enter client investment data to model.
+- **User Input:** Financial advisors enter client investment inputs to model.
 - **Calculations:** Model calculates investment portfolio based on data provided by user.
-- **Formatting:** Model formats potfolio values into intelligible report that advisors can print and present to clients.
+- **Formatting:** Model formats potfolio values into intelligible report that advisors print and present to clients.
 
 ## Sample Input
 
@@ -42,3 +43,7 @@ This model reduces manual calculations by 100% and allows financial advisors to 
       width="100%"
       height="600px"
   ></iframe>
+
+  ## Download this Model
+
+  <a href="link/to/your/download/file" download>Download link</a>
