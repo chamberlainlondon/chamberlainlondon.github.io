@@ -44,6 +44,6 @@ This model reduces advisor calculations by 100% and allows the team to focus on 
       height="600px"
   ></iframe>
 
-  ## Download this Model
+## Download this Model
 
-  <a href="https://chamberlainlondon.github.io/files/Investment Proposal Template.xlsm" download>Download link</a>
+<a href="https://chamberlainlondon.github.io/files/Investment Proposal Template.xlsm" download>Download Investment Proposal Template</a>
