@@ -20,7 +20,7 @@ toc: false
 
 ### The University of Texas at Austin
 - B.S. Economics, The University of Texas at Austin, 2026
-  - Academic Certificates: [Elements of Computing (Computer Science)](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing), [Applied Statistical Modeling](https://stat.utexas.edu/academics/certificate-applied-statistical-modeling)
+  - Academic Minors and Certificates: Minor in [Finance](https://liberalarts.utexas.edu/economics/undergraduate-program/academic-opportunities/business-economics-option-program.html), Certificate in [Elements of Computing](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing) (Computer Science), Certificate in [Applied Statistical Modeling](https://stat.utexas.edu/academics/certificate-applied-statistical-modeling)
 
 ## Professional Experience
 
