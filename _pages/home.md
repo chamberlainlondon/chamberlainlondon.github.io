@@ -5,14 +5,14 @@ author_profile: true
 ---
 ------
 
-Howdy! My name is London Chamberlain, and I'm an undergraduate at [The University of Texas at Austin](https://www.utexas.edu/), majoring in Economics with applications in statistics, computer science, finance, and wealth management. 
+Howdy! My name is London and I'm a student at [The University of Texas at Austin](https://www.utexas.edu/). I study Economics with minors in finance, wealth management, and computer science. 
 
-I create robust financial [models](https://londonchamberlain.com/portfolio/portfolio-4/) and [dashboards](https://chamberlainlondon.github.io/portfolio/portfolio-2/) for businesses using tools like Microsoft Excel, Visual Basic for Applications (VBA), Microsoft Power BI, and Python. I have experience using SQL, R, and Tableau in various academic projects, and I consistently develop my skills.
+<h2>Work</h2>
+I analyze company data at [The Fox Alliance Wealth Advisors](https://foxalliancewealth.com). You can check out our website at [this link](https://foxalliancewealth.com), or read about some of my projects at [this link](https://londonchamberlain.com/portfolio/). I currently hold my Series 7 securities registration with LPL Financial.
 
-**Note:** I am actively seeking a summer 2025 internship, ideally starting between June or July 2025, in fields related to portfolio management, finance, or consulting. Please feel free to [contact me](https://chamberlainlondon.github.io/contact/) if you have an opening that aligns with these criteria. I am open to relocating for the position.
-{: .notice--info}
+Before finance, I was a golf course groundskeeper for the PGA at Omni Hotels and Resorts, Barton Creek. 
 
-Beyond my studies, I have a keen interest in financial analysis, [trail running](http://edsresults.com/txsb22/reports.php?search_type=race_results&event=Marathon&division=Age+Group), true crime novels, 35mm film photography, and serving [my community](https://www.texasblazers.com/).
+Outside of academics and work, I'm currently interested in securities law, the [money stuff](https://podcasts.apple.com/us/podcast/money-stuff-the-podcast/id1739582836) podcast, trail running, and true crime novels.
 
 <div style="text-align:center;">
     <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
