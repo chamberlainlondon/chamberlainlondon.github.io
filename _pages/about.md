@@ -31,17 +31,18 @@ toc: false
 
 ### Wealth Management Intern, The Fox Alliance Wealth Management
 
-Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). At The Fox Alliance, I have fallen into a data analytics role, creating financial models and dashboards for the firm. Some of my most notable achievements include:
+Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). At The Fox Alliance, I have fallen into an internal analyst role. I primarily create financial models and dashboards, and produce investment research, for the firm. Some of my most notable achievements include:
 
+- Creating a discounted cash flow
 - Launching an Excel and VBA model that allowed firm to efficiently purchase $20M in opportunistic stocks among 900 client accounts.
 - Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-2/)
 - Measuring lead conversion strategies among 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-1/)
-- Overhauling client-facing investment proposal document using Excel and Visual Basic for Applications so financial calculations and document manipulation are systemized and automated.
-- Hiring and directing a technology consultant and data analytics team to double data analytics output for firm.
+- Overhauling client-facing investment proposal document using Excel and Visual Basic for Applications so financial calculations and document manipulation are systemized and automated. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
+- Researching and hiring a technology consultant and data analytics team to produce a dashboard for our firm's tax practice.
 
 ### Technology Consultant, James A. Baker + Coaching
 
-Since December 2023, I have served as a pro bono technology consultant for James A. Baker + Coaching. To date, I have:
+From December 2023 to January 2024, I served as a pro bono technology consultant for James A. Baker + Coaching. During my time consulting for James A. Baker + Coaching, I:
 
 - Modified technology infrastructure by transitioning CRM and scheduling software to achieve 20% reduction in annual expenses.
 - Enhanced HubSpot CRM and OnceHub client scheduling software by monitoring planned client meetings and lead conversion rates.
