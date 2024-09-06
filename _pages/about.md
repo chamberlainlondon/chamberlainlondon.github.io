@@ -42,10 +42,10 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 
 ### Technology Consultant, James A. Baker + Coaching
 
-From December 2023 to January 2024, I served as a pro bono technology consultant for James A. Baker + Coaching. During my time consulting for James A. Baker + Coaching, I:
+From December 2023 to January 2024, I served as a pro bono technology consultant for James A. Baker + Coaching. During my time consulting James A. Baker + Coaching, I:
 
-- Modified technology infrastructure by transitioning CRM and scheduling software to achieve 20% reduction in annual expenses.
-- Enhanced HubSpot CRM and OnceHub client scheduling software by monitoring planned client meetings and lead conversion rates.
+- Modified the business' technology infrastructure by transitioning the CRM and scheduling software to achieve a 20% reduction in annual expenses.
+- Established the business' client calendar scheduling software, linking contacts and meetings to HubSpot CRM, in order to monitor lead conversion rates. 
 
 ## University Leadership
 
@@ -70,7 +70,7 @@ From December 2023 to January 2024, I served as a pro bono technology consultant
 
 ### Harvard Professional Certificate in Computer Science for Python Programming (In progress)
 
-In 2024, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, I am developing proficiency in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. I will complete a final course project in both courses by creating a piece of software implemented in any language that solves a prolem or impacts my community.
+In 2024, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, students develop proficiency in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. By the end of the program, students create a piece of software implemented in any (or multiple) language(s) that solves a prolem or impacts my community.
 
 ### Google Data Analytics Professional Certificate (2023)
 
