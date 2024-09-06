@@ -23,6 +23,10 @@ toc: false
   - Academic Minors: [Finance](https://liberalarts.utexas.edu/economics/undergraduate-program/academic-opportunities/business-economics-option-program.html), [Wealth Management](https://www.mccombs.utexas.edu/centers-and-initiatives/wealth-management-center/minorcertificate/wealth-management-minor/)
   - Academic Certificates: [Elements of Computing](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing) (Computer Science)
 
+### Austin Community College
+- A.S. Business Administration, Austin Community College, 2024
+  - ACC Honors Program, Phi Theta Kappa
+
 ## Professional Experience
 
 ### Wealth Management Intern, The Fox Alliance Wealth Management
