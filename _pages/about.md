@@ -29,7 +29,7 @@ toc: false
 
 ## Professional Experience
 
-### Wealth Management Intern, The Fox Alliance Wealth Management
+### Wealth Management Intern & Client Liaison, The Fox Alliance Wealth Management
 
 Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). At The Fox Alliance, my day-to-day functions lie as an internal analyst. I primarily create financial models and dashboards, and produce investment research, for the firm. Some of my most notable achievements include:
 
