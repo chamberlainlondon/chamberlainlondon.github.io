@@ -42,7 +42,7 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 
 ### Technology Consultant, James A. Baker + Coaching
 
-From December 2023 to January 2024, I served as a technology consultant for James A. Baker + Coaching. Some of my impact includes:
+From December 2023 to January 2024, I served as a technology consultant for James A. Baker + Coaching. Some of my impact include:
 
 - Modifying the team's technology infrastructure by transitioning CRM and scheduling softwares to achieve a 20% reduction in annual expenses.
 - Establishing HubSpot CRM and OnceHub client scheduling software to monitor and document 27 planned client meetings/month on average.
