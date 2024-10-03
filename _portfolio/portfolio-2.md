@@ -20,8 +20,6 @@ gallery:
 
 At [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I developed an internal Power BI dashboard that displays firm assets under management (AUM) and production metrics month-over-month (MoM), utilizing a database of over 224K entries. This project was my first experience using Power BI and accentuates my data visualization skills. 
 
-![Dashboard Homepage](https://chamberlainlondon.github.io/images/TFA Dashboard 1.png)
-
 ## Project Overview
 
 ### Content
