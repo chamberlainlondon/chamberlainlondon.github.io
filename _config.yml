@@ -91,7 +91,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  brokercheck      : "https://brokercheck.finra.org/individual/summary/7438102"
+  brokercheck      : # "https://brokercheck.finra.org/individual/summary/7438102"
   codepen          :
   dribbble         :
   flickr           :
