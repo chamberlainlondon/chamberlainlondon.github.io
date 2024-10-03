@@ -31,10 +31,10 @@ toc: false
 
 ### Wealth Management Intern & Client Liaison, The Fox Alliance Wealth Management
 
-Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). At The Fox Alliance, my day-to-day functions lie as an internal analyst. I primarily create financial models and dashboards, and produce investment research, for the firm. Some of my most notable achievements include:
+Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). My daily responsibilities include analyzing investment and client data, optimizing operational efficiency for financial advisors and planners with new financial models, creating financial dashboards, and producing proprietary investment research for the firm. Some of my most notable achievements include:
 
 - Launching an Excel and VBA model that allowed firm to efficiently purchase $20M in opportunistic stocks among 900 client accounts.
-- Deploying a Discounted Cash Flow model allowing managing partners to assess enterprise acquisition values from future cash flows.
+- Deploying a DCF model to assist partners evaluate enterprise acquisitions worth over $3M, reducing computation time by 90%.
 - Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-2/)
 - Creating proprietary lead-conversion research using data from 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-1/)
 - Overhauling firm's client-facing investment proposal model using Excel and Visual Basic for Applications so client portfolio creation is more efficient and optimized. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
@@ -42,10 +42,10 @@ Since September 2021, I have served as a Wealth Management Intern for [The Fox A
 
 ### Technology Consultant, James A. Baker + Coaching
 
-From December 2023 to January 2024, I served as a technology consultant for James A. Baker + Coaching. As a consultant, I:
+From December 2023 to January 2024, I served as a technology consultant for James A. Baker + Coaching. Some of my impact includes:
 
-- Modified the team's technology infrastructure by transitioning CRM and scheduling softwares to achieve a 20% reduction in annual expenses.
-- Established the business' client calendar scheduling software, linking contacts and meetings to HubSpot CRM, in order to monitor lead conversion rates. 
+- Modifying the team's technology infrastructure by transitioning CRM and scheduling softwares to achieve a 20% reduction in annual expenses.
+- Establishing HubSpot CRM and OnceHub client scheduling software to monitor and document 27 planned client meetings/month on average.
 
 ## University Leadership
 
