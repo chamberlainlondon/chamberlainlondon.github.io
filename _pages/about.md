@@ -66,6 +66,11 @@ From December 2023 to January 2024, I served as a technology consultant for Jame
 - Honors in Action Officer, Austin Community College, Spring 2023
 - College Project Officer, Austin Community College, Fall 2022
 
+### Additional Memberships
+- American Economic Association
+- Texas Economics Association
+- Texas [Undergraduate Securities Investment Team](https://www.texasusit.org/)
+
 ## Licenses and Certifications
 
 ### Securities Licenses
