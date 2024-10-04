@@ -21,7 +21,7 @@ toc: false
 ### The University of Texas at Austin
 - B.S. Economics, The University of Texas at Austin, 2026
   - McCombs School of Business Minors: [Finance](https://liberalarts.utexas.edu/economics/undergraduate-program/academic-opportunities/business-economics-option-program.html), [Wealth Management](https://www.mccombs.utexas.edu/centers-and-initiatives/wealth-management-center/minorcertificate/wealth-management-minor/)
-  - Academic Certificate: [Programming and Computation]([https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing](https://www.cs.utexas.edu/undergraduate-program/academics/programming-and-computation)) (Computer Science)
+  - Academic Certificate: [Programming and Computation](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing) (Computer Science)
 
 ### Austin Community College
 - A.S. Business Administration, Austin Community College, 2024
