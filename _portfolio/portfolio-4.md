@@ -36,7 +36,6 @@ This model reduces investment proposal generation time by 80% and it is currentl
     src="https://utexas-my.sharepoint.com/:x:/g/personal/lcc2763_my_utexas_edu/EXE_H4_6Vh1PlXK3rgyVJJoBEaiAKOYxoPCgAh1FT1Vx9g?e=fHRv6G"
     width="100%"
     height="600px"
-   
 ></iframe>
 
 ### Sample Input
