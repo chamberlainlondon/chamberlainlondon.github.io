@@ -40,7 +40,7 @@ This model reduces investment proposal generation time by 80% and it is currentl
     height="600px"
 ></iframe>
 
-### Sample Results
+### Sample Output
 
 <iframe
       src="https://chamberlainlondon.github.io/images/portfolio/portfolio-4/Doe_Investment_Proposal.pdf"
