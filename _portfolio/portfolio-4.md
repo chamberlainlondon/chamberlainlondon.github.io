@@ -32,6 +32,8 @@ This model reduces investment proposal generation time by 80% and it is currentl
 - **Calculations:** Model calculates investment portfolio based on data provided by user.
 - **Formatting:** Model formats potfolio values into intelligible report that advisors print and present to clients.
 
+ <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://utexas-my.sharepoint.com/:x:/g/personal/lcc2763_my_utexas_edu/EXE_H4_6Vh1PlXK3rgyVJJoBEaiAKOYxoPCgAh1FT1Vx9g?e=ToWVlj"></iframe>
+
 ### Sample Input
 
 {% include gallery %}
