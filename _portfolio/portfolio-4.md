@@ -20,7 +20,7 @@ gallery:
 ------
 
 
-As a Wealth Management Intern at [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com), I developed a Microsoft Excel model that produces polished investment portfolio reports tailored to user (financial advisor) inputs. Every advisor and financial planning assistant presents a physical version of this report in client meetings to help clients understand their proposed holdings.
+As a Wealth Management Intern at [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com), I developed a Microsoft Excel model that produces polished investment portfolio reports tailored to financial advisor inputs. Every financial advisor and financial planning assistant presents a physical version of this report during client meetings to help clients understand their proposed portfolio.
 
 This model reduces investment proposal generation time by 80% and it is currently employed by every advisor and financial planning assistant at The Fox Alliance.
 
@@ -38,10 +38,6 @@ This model reduces investment proposal generation time by 80% and it is currentl
     height="600px"
 ></iframe>
 
-### Sample Input
-
-{% include gallery %}
-
 ### Sample Results
 
 <iframe
@@ -49,7 +45,3 @@ This model reduces investment proposal generation time by 80% and it is currentl
       width="100%"
       height="600px"
 ></iframe>
-
-### Download this Model
-
-<a href="https://chamberlainlondon.github.io/files/Investment Proposal Template.xlsm" download>Download Investment Proposal Template</a>
