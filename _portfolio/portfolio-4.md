@@ -32,7 +32,12 @@ This model reduces investment proposal generation time by 80% and it is currentl
 - **Calculations:** Model calculates investment portfolio based on data provided by user.
 - **Formatting:** Model formats potfolio values into intelligible report that advisors print and present to clients.
 
- <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://utexas-my.sharepoint.com/:x:/g/personal/lcc2763_my_utexas_edu/EXE_H4_6Vh1PlXK3rgyVJJoBEaiAKOYxoPCgAh1FT1Vx9g?e=ToWVlj"></iframe>
+<iframe
+    src="https://utexas-my.sharepoint.com/:x:/g/personal/lcc2763_my_utexas_edu/EXE_H4_6Vh1PlXK3rgyVJJoBEaiAKOYxoPCgAh1FT1Vx9g?e=fHRv6G"
+    width="100%"
+    height="600px"
+   
+></iframe>
 
 ### Sample Input
 
@@ -40,11 +45,11 @@ This model reduces investment proposal generation time by 80% and it is currentl
 
 ### Sample Results
 
-  <iframe
+<iframe
       src="https://chamberlainlondon.github.io/images/portfolio/portfolio-4/Doe_Investment_Proposal.pdf"
       width="100%"
       height="600px"
-  ></iframe>
+></iframe>
 
 ### Download this Model
 
