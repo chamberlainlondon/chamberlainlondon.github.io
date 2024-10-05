@@ -33,7 +33,7 @@ This model reduces investment proposal generation time by 80% and it is currentl
 - **Formatting:** Model formats potfolio values into intelligible report that advisors print and present to clients.
 
 <iframe
-    src="https://utexas-my.sharepoint.com/:x:/g/personal/lcc2763_my_utexas_edu/EXE_H4_6Vh1PlXK3rgyVJJoBEaiAKOYxoPCgAh1FT1Vx9g?e=fHRv6G"
+    src="https://utexas-my.sharepoint.com/:x:/g/personal/lcc2763_my_utexas_edu/EXE_H4_6Vh1PlXK3rgyVJJoBEaiAKOYxoPCgAh1FT1Vx9g?e=fHRv6G&action=embedview&wdbipreview=true&wdHideSheetTabs=true&wdAllowInteractivity=True& Item=PivotTable1& ActiveCell=B4&wdHideGridlines=True &wdHideHeaders=True& wdDownloadButton=True"
     width="100%"
     height="600px"
 ></iframe>
