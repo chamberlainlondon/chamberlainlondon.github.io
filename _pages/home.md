@@ -11,7 +11,7 @@ I analyze financial data at The Fox Alliance Wealth Advisors. You can check out 
 
 Before finance, I was a golf course groundskeeper for the Professional Golfer's Association (PGA) at Omni Hotels and Resorts, Barton Creek. 
 
-In my personal time, I'm interested in long-distance running, securities law, the [money stuff](https://podcasts.apple.com/us/podcast/money-stuff-the-podcast/id1739582836) podcast, capital markets, data science, and making cajun food for friends.
+In my personal time, I'm interested in long-distance running, securities law, the [money stuff](https://podcasts.apple.com/us/podcast/money-stuff-the-podcast/id1739582836) podcast, financial markets, data science, and making cajun food for friends.
 
 <div style="text-align:center;">
     <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
