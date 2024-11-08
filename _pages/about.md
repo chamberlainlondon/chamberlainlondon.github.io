@@ -29,20 +29,26 @@ toc: false
 
 ## Professional Experience
 
-### Wealth Management Intern & Client Liaison, The Fox Alliance Wealth Management
+### Equity Research Analyst Intern, Westlake Securities
 
-Since September 2021, I have served as a Wealth Management Intern for [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/). My daily responsibilities include analyzing investment and client data, optimizing operational efficiency for financial advisors and planners with new financial models, creating financial dashboards, and producing proprietary investment research for the firm. Some of my most notable achievements include:
+[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I currently serve as an Equity Research Analyst Intern, where I produce research on energy and industrials sectors equities. 
+
+### Wealth Management Intern & Client Liaison, The Fox Alliance Wealth Advisors
+
+[The Fox Alliance](https://www.foxalliancewealth.com/) is a wealth management and tax strategy firm founded in 2014 and headquartered in Austin, Texas. Since September 2021, I have been a Wealth Management Intern, where I support financial advisors and planners in enhancing operational efficiency and client service. My daily responsibilities involve analyzing client and investment data, developing new financial models, creating financial dashboards, and producing proprietary investment research for the firm. 
+
+Among my most notable achievements are:
 
 - Launching an Excel and VBA model that allowed firm to efficiently purchase $20M in opportunistic stocks among 900 client accounts.
-- Deploying a DCF model to assist partners evaluate enterprise acquisitions worth over $3M, reducing computation time by 90%.
+- Deploying a discounted cash flow model to assist partners evaluate enterprise acquisitions worth over $3M, reducing computation time by 90%.
 - Engineering a dynamic Power BI dashboard that enables real-time visualization of historically inaccessible Assets Under Management and Production KPIs. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-2/)
 - Creating proprietary lead-conversion research using data from 30 firms in 7 Texas territories to convey improved client acquisition opportunities with company partners. [Read More](https://chamberlainlondon.github.io/portfolio/portfolio-1/)
 - Overhauling firm's client-facing investment proposal model using Excel and Visual Basic for Applications so client portfolio creation is more efficient and optimized. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
-- Researching and hiring a technology consultant and data analytics team to produce a dashboard for The Fox Alliance's tax practice.
+- Researching and hiring a technology consultant and data analytics team to produce an advanced dashboard for The Fox Alliance's tax practice.
 
-### Accounting & Supply Chain Intern, James A. Baker + Coaching
+### Accounting & Supply Chain Intern, James A. Baker Coaching
 
-From December 2023 to May 2024, I served as an accounting and supply chain intern for James A. Baker + Coaching.
+From December 2023 to May 2024, I served as an accounting and supply chain intern for [James A. Baker Coaching](https://jamesabakercoaching.com/).
 
 ## University Leadership
 
