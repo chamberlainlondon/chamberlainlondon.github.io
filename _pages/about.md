@@ -29,10 +29,6 @@ toc: false
 
 ## Professional Experience
 
-### Equity Research Analyst Intern, Westlake Securities
-
-[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I currently serve as an Equity Research Analyst Intern, where I produce research on energy and industrials sectors equities. 
-
 ### Wealth Management Intern & Client Liaison, The Fox Alliance Wealth Advisors
 
 [The Fox Alliance](https://www.foxalliancewealth.com/) is a wealth management and tax strategy firm founded in 2014 and headquartered in Austin, Texas. Since September 2021, I have been a Wealth Management Intern, where I support financial advisors and planners in enhancing operational efficiency and client service. My daily responsibilities involve analyzing client and investment data, developing new financial models, creating financial dashboards, and producing proprietary investment research for the firm. 
@@ -46,9 +42,13 @@ Among my most notable achievements are:
 - Overhauling firm's client-facing investment proposal model using Excel and Visual Basic for Applications so client portfolio creation is more efficient and optimized. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
 - Researching and hiring a technology consultant and data analytics team to produce an advanced dashboard for The Fox Alliance's tax practice.
 
-### Accounting & Supply Chain Intern, James A. Baker Coaching
+### Equity Research Analyst Intern, Westlake Securities
 
-From December 2023 to May 2024, I served as an accounting and supply chain intern for [James A. Baker Coaching](https://jamesabakercoaching.com/).
+[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I served as an Equity Research Analyst Intern in Fall 2024, where I produced research on energy and industrials sectors equities. 
+
+### Technology Consultant, James A Baker Coaching
+
+From December 2023 to May 2024, I served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/).
 
 ## University Leadership
 
@@ -82,7 +82,7 @@ I hold my Series 7 and Seriess 66 licenses with LPL Financial. I have also passe
 
 ### Harvard Professional Certificate in Computer Science for Python Programming (In progress)
 
-In 2024, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, students develop expertise in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. By the end of the program, students create a piece of software implemented in any (or multiple) language(s) that solves a relevant problem of interest.
+In 2025, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, students develop expertise in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. By the end of the program, students create a piece of software implemented in any (or multiple) language(s) that solves a relevant problem of interest.
 
 ### Google Data Analytics Professional Certificate (2023)
 
