@@ -1,5 +1,5 @@
 ---
-title: "The Effect of the CBOE Volatility Index (VIX) on Precious Metals Futures Prices"
+title: "The Effect of the CBOE Volatility Index (VIX) on Precious Metals Futures Prices (2024)"
 excerpt: "Developed an econometrics paper exploring the relationship between CBOE Volatility Index (VIX) market variables and the price of precious metals futures contracts."
 collection: portfolio
 
