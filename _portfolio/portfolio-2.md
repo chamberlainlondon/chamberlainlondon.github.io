@@ -1,6 +1,6 @@
 ---
 title: "The Fox Alliance AUM and Production Dashboard (2023)"
-excerpt: "Developed a Power BI dashboard that visualized firm KPIs after compiling a database of over 224K entries"
+excerpt: "Developed a Power BI dashboard that visualized firm KPIs after compiling a database of over 224K entries."
 collection: portfolio
 gallery:
   - url: https://chamberlainlondon.github.io/images/TFA Dashboard 1.png
