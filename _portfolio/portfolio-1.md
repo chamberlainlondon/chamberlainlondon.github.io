@@ -1,6 +1,6 @@
 ---
 title: "The Fox Alliance Ramsey Lead Research Presentation (2022)"
-excerpt: "Measured lead conversion practices among 30 firms in 7 territories, presenting findings to managing partners"
+excerpt: "Measured lead conversion practices among 30 firms in 7 territories, presenting findings to managing partners."
 collection: portfolio
 ---
 ------
