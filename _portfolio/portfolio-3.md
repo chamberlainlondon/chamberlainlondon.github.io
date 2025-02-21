@@ -2,6 +2,7 @@
 title: "'Resume Match' Software (2024)"
 excerpt: "Developed a student-centered desktop application that analyzes your resume against a provided job application."
 collection: portfolio
+worktype: 'personal'
 gallery:
   - url: https://chamberlainlondon.github.io/images/ResumeMatch1.png
     image_path: https://chamberlainlondon.github.io/images/ResumeMatch1.png
