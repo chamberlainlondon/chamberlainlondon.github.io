@@ -2,6 +2,7 @@
 title: "The Fox Alliance Investment Proposal Model (2024)"
 excerpt: "Deployed automated model that generates a client investment portfolio based on financial advisor input."
 collection: portfolio
+worktype: 'work'
 gallery:
   - url: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA1.png
     image_path: https://chamberlainlondon.github.io/images/portfolio/portfolio-4/IPA1.png
