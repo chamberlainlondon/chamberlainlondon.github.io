@@ -10,4 +10,8 @@ Analyzed and compared two multifamily real estate investment opportunities in Au
 
 ## Presentation:
 
-
+<iframe
+      src="https://chamberlainlondon.github.io/images/portfolio/portfolio-6/Forty_Acres_Capital.pdf"
+      width="100%"
+      height="600px"
+></iframe>
