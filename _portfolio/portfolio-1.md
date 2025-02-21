@@ -2,6 +2,7 @@
 title: "The Fox Alliance Ramsey Lead Research Presentation (2022)"
 excerpt: "Measured lead conversion practices among 30 firms in 7 territories, presenting findings to managing partners."
 collection: portfolio
+worktype: 'work'
 ---
 ------
 During 3 months of my time as a wealth management intern at [The Fox Alliance Wealth Advisors](https://www.foxalliancewealth.com/), I analyzed the initial contact practices of 30 competing firms (including The Fox Alliance) across 7 Texas territories to gather data on other wealth management firms. I compiled response data, including communication methods, response times, and content. 
