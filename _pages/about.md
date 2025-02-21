@@ -73,6 +73,7 @@ From December 2023 to May 2024, I served as a technology consultant for [James A
 - American Economic Association
 - Texas Economics Association
 - Texas [Undergraduate Securities Investment Team](https://www.texasusit.org/)
+- [Longhorn Macro Investors](https://linktr.ee/longhornmacroinvestors)
 
 ## Licenses and Certifications
 
