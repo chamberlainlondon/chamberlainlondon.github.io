@@ -9,21 +9,21 @@ author_profile: true
 
 <h2>Work Projects</h2>
 {% for post in site.portfolio reversed %}
-  {% if post.pubtype == 'work' %}
+  {% if post.worktype == 'work' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 <h2>Personal Projects</h2>
 {% for post in site.portfolio reversed %}
-  {% if post.pubtype == 'personal' %}
+  {% if post.worktype == 'personal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 <h2>Case Competitions</h2>
 {% for post in site.portfolio reversed %}
-  {% if post.pubtype == 'cases' %}
+  {% if post.worktype == 'cases' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
