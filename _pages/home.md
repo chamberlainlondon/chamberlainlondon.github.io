@@ -21,7 +21,7 @@ Before finance, I was a golf course groundskeeper for the Professional Golfer's 
         display: inline-block;
         transition: background-color 0.3s;
     " 
-    onmouseover="this.style.backgroundColor='#2a79ab';" 
+    onmouseover="this.style.backgroundColor='#67a3d9';" 
     onmouseout="this.style.backgroundColor='#7a8288';"
     >
         Learn More
