@@ -6,7 +6,9 @@ worktype: 'cases'
 ---
 ------
 
-Analyzed and compared two multifamily real estate investment opportunities in Austin and Denver by projecting rent growth and vacancy rates, evaluating long-term market dynamics, demographic trends, and economic conditions. Developed an informed recommendation to maximize investment returns for the Bevo Investment Fund, a fictional pension fund.
+In February 2025, I partnered with five colleagues in finance, management, and economics to compete in the McCombs Real Estate Center's Spring Undergraduate Case Competition. We analyzed and compared two multifamily real estate investment opportunities in Austin and Denver, presenting an investment recommendation for one property to a panel of four industry experts. To build a robust investment thesis, we projected rent growth and vacancy rates while evaluating long-term market dynamics, demographic trends, and economic conditions. Our recommendation aimed to maximize returns for the Bevo Investment Fund, a fictional pension fund.
+
+Our team placed first, earning a $3,000 cash prize. You can view our finalized presentation below.
 
 ## Presentation:
 
