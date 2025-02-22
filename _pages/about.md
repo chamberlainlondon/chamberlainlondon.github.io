@@ -100,7 +100,7 @@ In 2023, I earned Google's [Data Analytics Professional Certificate](https://www
         display: inline-block;
         transition: background-color 0.3s;
     " 
-    onmouseover="this.style.backgroundColor='#2a79ab';" 
+    onmouseover="this.style.backgroundColor='#67a3d9';" 
     onmouseout="this.style.backgroundColor='#7a8288';"
     >
         Learn More
