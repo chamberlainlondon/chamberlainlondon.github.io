@@ -79,7 +79,7 @@ From December 2023 to May 2024, I served as a technology consultant for [James A
 
 ### Securities Licenses
 
-I hold my Series 7 and Seriess 66 licenses with LPL Financial. I have also passed the SIE exam. You can find my BrokerCheck registration [here](https://brokercheck.finra.org/individual/summary/7438102).
+I hold my Series 7 and Series 66 licenses with LPL Financial. I have also passed the SIE exam. You can find my BrokerCheck registration [here](https://brokercheck.finra.org/individual/summary/7438102).
 
 ### Harvard Professional Certificate in Computer Science for Python Programming (In progress)
 
