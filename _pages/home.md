@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-Howdy! My name is London and I'm a undergraduate student at [The University of Texas at Austin](https://www.utexas.edu/). I study economics with honors, and I'm pursuing minors in finance, computer science, and wealth management.
+Howdy! My name is London and I'm a undergraduate student at [The University of Texas at Austin](https://www.utexas.edu/). I am pursuing my degree in economics with departmental honors, supported by minors in finance, computer science, and wealth management.
 
 I am a Wealth Management Intern and Client Liaison at The Fox Alliance Wealth Advisors. You can check out our website using [this link](https://www.foxalliancewealth.com/), or read about select work and personal projects [here](https://londonchamberlain.com/portfolio/). I hold my Series 7 and Series 66 securities registrations with LPL Financial.
 
