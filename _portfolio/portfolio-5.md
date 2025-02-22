@@ -16,3 +16,5 @@ Developed an econometrics paper exploring the relationship between CBOE Volatili
       height="600px"
 ></iframe>
 
+<br>
+Download the full presentation [here](https://chamberlainlondon.github.io/images/portfolio/portfolio-5/Chamberlain_VIX.pdf).
