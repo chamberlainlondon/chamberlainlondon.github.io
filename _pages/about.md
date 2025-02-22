@@ -89,7 +89,6 @@ In 2025, I am working on Harvard College's [Professional Certificate in Computer
 
 In 2023, I earned Google's [Data Analytics Professional Certificate](https://www.credly.com/badges/f57c583b-6caa-4b88-8111-3ab16a6be2ea/linked_in_profile). During the program, I developed advanced proficiency in Excel, SQL, Tableau, and R. I am proficient in data cleaning, data visualization, and data analysis.
 
-<br>
 <div>
     <a href="/portfolio/" class="btn" style="
         text-decoration: none;
