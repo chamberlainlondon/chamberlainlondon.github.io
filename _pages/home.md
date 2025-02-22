@@ -12,5 +12,19 @@ I am a Wealth Management Intern and Client Liaison at The Fox Alliance Wealth Ad
 Before finance, I was a golf course groundskeeper for the Professional Golfer's Association at Omni Hotels and Resorts, Barton Creek. In my personal time, I'm interested in long-distance running, securities law, the [money stuff](https://podcasts.apple.com/us/podcast/money-stuff-the-podcast/id1739582836) podcast, commercial real estate, econometrics, and data science.
 
 <div style="text-align:center;">
-    <a href="/about/" class="btn" style="text-decoration: none;">Learn More</a>
+    <a href="/about/" class="btn" style="
+        text-decoration: none;
+        background-color: #7a8288;
+        color: #ffffff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        display: inline-block;
+        transition: background-color 0.3s;
+    " 
+    onmouseover="this.style.backgroundColor='#2a79ab';" 
+    onmouseout="this.style.backgroundColor='#7a8288';"
+    >
+        Learn More
+    </a>
 </div>
+
