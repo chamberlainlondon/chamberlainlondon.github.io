@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "London Chamberlain"
-  avatar           : "London_Headshot_Greyscale_Background.png"
+  avatar           : "London_Headshot_White_Background_Greyscale_Foreground.png" #London_Headshot_Greyscale_Background.png #London_Headshot_White_Background.png
   bio              : "Economics with Honors @ The University of Texas at Austin"
   location         : "Austin, TX"
   employer         : 
