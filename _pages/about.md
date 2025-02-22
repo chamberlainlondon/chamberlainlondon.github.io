@@ -90,7 +90,19 @@ In 2025, I am working on Harvard College's [Professional Certificate in Computer
 In 2023, I earned Google's [Data Analytics Professional Certificate](https://www.credly.com/badges/f57c583b-6caa-4b88-8111-3ab16a6be2ea/linked_in_profile). During the program, I developed advanced proficiency in Excel, SQL, Tableau, and R. I am proficient in data cleaning, data visualization, and data analysis.
 
 
-
-<div style="text-align:left;">
-    <a href="/portfolio/" class="btn" style="text-decoration: none;">Portfolio</a>
+<div style="text-align:center;">
+    <a href="/portfolio/" class="btn" style="
+        text-decoration: none;
+        background-color: #7a8288;
+        color: #ffffff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        display: inline-block;
+        transition: background-color 0.3s;
+    " 
+    onmouseover="this.style.backgroundColor='#2a79ab';" 
+    onmouseout="this.style.backgroundColor='#7a8288';"
+    >
+        Portfolio
+    </a>
 </div>
