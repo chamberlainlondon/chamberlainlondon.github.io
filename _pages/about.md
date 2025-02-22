@@ -91,7 +91,7 @@ In 2023, I earned Google's [Data Analytics Professional Certificate](https://www
 
 
 <div>
-    <a href="/about/" class="btn" style="
+    <a href="/portfolio/" class="btn" style="
         text-decoration: none;
         background-color: #7a8288;
         color: #ffffff;
