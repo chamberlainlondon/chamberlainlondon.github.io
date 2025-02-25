@@ -18,7 +18,7 @@ gallery:
 During the Spring 2024 Semester, I developed a Python program called "Resume Match" that compares student resumes to a job description, suggesting relevant keywords to include. 
 
 Note: I am currently incorporating JavaScript, HTML, and CSS to make this software accessible to more users via the web. You can check out the current public state of this tool [here](https://londonchamberlain.com/resume-match/).
-{: .notice--note}
+{: .notice}
 
 This software was inspired by my experience applying for summer internships, where I spent hours sifting through applications for keywords to enhance my resume. By highlighting relevant keywords and skills, the tool helps individuals better-align their resumes with job descriptions, demonstrating to employers that they are a good fit for the position.
 
