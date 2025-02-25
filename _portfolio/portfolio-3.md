@@ -37,6 +37,6 @@ The script uses several libraries, including [tkinter](https://docs.python.org/3
 
 {% include gallery %}
 
-## Future Development
+## Current Development
 
-In the future, I aim to incorporate JavaScript, HTML, and CSS to make this software accessible to more users via the web. I would also like to supply users additional feedback regarding their resume's content.
+I am currently incorporating JavaScript, HTML, and CSS to make this software accessible to more users via the web. I also aim to supply users additional feedback regarding their resume's content and recommendations. You can check out the current public state of this tool [here](https://londonchamberlain.com/resume-match/).
