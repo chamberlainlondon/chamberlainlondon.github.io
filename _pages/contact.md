@@ -13,30 +13,11 @@ header:
 ---
 ------
 
-<form action="https://api.web3forms.com/submit" method="POST">
-
-    <input type="hidden" name="access_key" value="831abd01-73ed-47ad-a1e1-558c89f2cbc3">
-    
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <textarea name="message" required></textarea>
-    <input type="hidden" name="redirect" value="https://web3forms.com/success">
-    <button type="submit">Submit Form</button>
-
-</form>
-
-<!-- 
-    This is a working contact form. To receive email, 
-    Replace YOUR_ACCESS_KEY_HERE with your actual Access Key.
-
-    Create Access Key here 👉 https://web3forms.com/
- -->
-
 <section class="contact-section">
   <div class="contact-intro">
     <h2 class="contact-title">Get in Touch</h2>
     <p class="contact-description">
-      Fill out the form below and we'll get back to you as soon as possible.
+      Fill out the form below and I'll get back to you as soon as possible.
     </p>
   </div>
 
