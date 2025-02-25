@@ -1,5 +1,5 @@
 ---
-title: "McCombs Real Estate Center Spring Undergraduate Case Competition (2025)"
+title: "University of Texas Real Estate Center Undergraduate Case Competition (2025)"
 excerpt: "Analyzed and compared two multifamily real estate investment opportunities in Austin and Denver."
 collection: portfolio
 worktype: 'cases'
