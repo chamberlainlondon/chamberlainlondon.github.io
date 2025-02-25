@@ -22,12 +22,11 @@ header:
   </div>
 
   <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
-
     <input type="hidden" name="access_key" value="831abd01-73ed-47ad-a1e1-558c89f2cbc3" />
     <input type="hidden" name="subject" value="New Contact Form Submission from Web3Forms" />
     <input type="hidden" name="from_name" value="My Website" />
-    <!-- More custom ization options available in the docs: https://docs.web3forms.com -->
-
+    <input type="hidden" name="redirect" value="https://londonchamberlain.com" /> 
+  
     <div class="form-group-container">
       <div class="form-group">
         <label for="name" class="form-label">Name</label>
@@ -47,6 +46,4 @@ header:
       </div>
     </div>
     <button class="form-submit" type="submit">Send Message</button>
-  </form>
-
-</section>
+</form>
