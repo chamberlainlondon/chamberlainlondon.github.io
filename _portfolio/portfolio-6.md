@@ -23,7 +23,7 @@ Our team, named Forty Acres Capital, analyzed and compared two multifamily real 
 
 Forty Acres Capital placed first, earning a $3,000 cash prize. Our final presentation is linked below.
 
-## Presentation:
+## Full Presentation:
 
 <iframe
       src="https://chamberlainlondon.github.io/images/portfolio/portfolio-6/Forty_Acres_Capital.pdf"
