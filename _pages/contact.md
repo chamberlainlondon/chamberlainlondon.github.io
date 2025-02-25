@@ -13,17 +13,14 @@ header:
 ---
 ------
 
-<form accept-charset="UTF-8" action="https://www.formbackend.com/f/97be09fe91e26702" method="POST">
-  <label for="name">Name</label>
-  <input type="text" id="name" name="name" required>
+<form action="https://api.web3forms.com/submit" method="POST">
 
-  <label for="email">Email</label>
-  <input type="email" id="email" name="email" required>
+    <input type="hidden" name="access_key" value="831abd01-73ed-47ad-a1e1-558c89f2cbc3">
 
-  <label for="message">Message</label>
-  <textarea name="message"></textarea>
+    <input type="text" name="name" required>
+    <input type="email" name="email" required>
+    <textarea name="message" required></textarea>
+    <input type="hidden" name="redirect" value="https://web3forms.com/success">
+    <button type="submit">Submit Form</button>
 
-   <div style="text-align:left;">
-    <button type="submit" class="btn">Send message</button>
-  </div>
 </form>
