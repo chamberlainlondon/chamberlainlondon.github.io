@@ -3,6 +3,15 @@ title: "University of Texas Real Estate Center Undergraduate Case Competition (2
 excerpt: "Analyzed and compared two multifamily real estate investment opportunities in Austin and Denver."
 collection: portfolio
 worktype: 'cases'
+gallery:
+  - url: https://chamberlainlondon.github.io/images/ExecutiveSummary.png
+    image_path: https://chamberlainlondon.github.io/images/ExecutiveSummary.png
+    alt: "Executive Summary"
+    title: "Executive Summary"
+  - url: https://chamberlainlondon.github.io/images/InvestmentRecommendation.png
+    image_path: https://chamberlainlondon.github.io/images/InvestmentRecommendation.png
+    alt: "Investment Recommendation"
+    title: "Investment Recommendation"
 ---
 ------
 
