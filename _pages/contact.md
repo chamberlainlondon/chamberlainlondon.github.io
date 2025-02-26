@@ -17,7 +17,7 @@ header:
   <div class="contact-intro">
     <h2 class="contact-title">Get in Touch</h2>
     <p class="contact-description">
-      Fill out the form below and I'll get back to you as soon as possible.
+      Fill out the form below and I'll get back to you as soon as I can.
     </p>
   </div>
 
