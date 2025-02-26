@@ -15,8 +15,8 @@ main:
   - title: "Resume"
     url: /files/London_Chamberlain_Resume.pdf
 
-#  - title: "Contact"
-#    url: /contact/
+  - title: "Contact"
+    url: /contact/
     
 #  - title: "Guide"
 #    url: /markdown/
