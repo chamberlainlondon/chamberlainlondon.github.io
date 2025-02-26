@@ -46,5 +46,27 @@ header:
       </div>
     </div>
     <button class="form-submit" type="submit">Send Message</button>
+
+    <button 
+      class="form-submit" 
+      type="submit" 
+      style="
+          text-decoration: none;
+          background-color: #7a8288;
+          color: #ffffff;
+          padding: 10px 20px;
+          border-radius: 5px;
+          display: inline-block;
+          transition: background-color 0.3s;
+          border: none;
+          font-size: 16px;
+          cursor: pointer;
+      " 
+      onmouseover="this.style.backgroundColor='#67a3d9';" 
+      onmouseout="this.style.backgroundColor='#7a8288';"
+  >
+      Send Message
+  </button>
+    
   </form>
 </section>
