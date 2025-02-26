@@ -45,7 +45,6 @@ header:
         <textarea class="form-textarea" id="message" name="message" placeholder="Your message" required></textarea>
       </div>
     </div>
-    <button class="form-submit" type="submit">Send Message</button>
 
     <button 
       class="form-submit" 
