@@ -70,7 +70,8 @@ From December 2023 to May 2024, I served as a technology consultant for [James A
 - College Project Officer, Austin Community College, Fall 2022
 
 ### Additional Memberships
-- American Economic Association
+- [Omicron Delta Epsilon](https://www.omicrondeltaepsilon.org/)
+- [American Economic Association](https://www.aeaweb.org/)
 - Texas Economics Association
 - Texas [Undergraduate Securities Investment Team](https://www.texasusit.org/)
 - [Longhorn Macro Investors](https://linktr.ee/longhornmacroinvestors)
