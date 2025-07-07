@@ -38,7 +38,7 @@ header:
       </div>
       <div class="form-group">
         <label for="phone" class="form-label">Phone</label>
-        <input id="phone" name="phone" class="form-input" placeholder="+1 (234) 56789" type="text" required />
+        <input id="phone" name="phone" class="form-input" placeholder="+1 (234) 567-8910" type="text" required />
       </div>
       <div class="form-group">
         <label for="message" class="form-label">Message</label>
