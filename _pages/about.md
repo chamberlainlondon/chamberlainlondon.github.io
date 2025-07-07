@@ -29,7 +29,7 @@ toc: false
 
 ## Professional Experience
 
-### Financial Analyst Intern, Capital Commercial Investments
+### Real Estate Financial Analyst Intern, Capital Commercial Investments
 
 [Capital Commercial](https://capitalcommercial.com/) is a real estate private equity firm specializing in office and industrial acquisitions and asset management with $2.2B+ AUM. Since June 2025, I have been a Financial Analyst Intern, where I support acquisitions financial analysts, asset managers, and our executive team. My daily responsibilities involve underwriting office acquisitions in Argus Enterprise and Microsoft Excel, researching and analyzing office submarket data in CoStar, producing proprietary quarterly investmet reports for current investors, and sourcing potential limited partners for future investment opportunities. 
 
@@ -51,9 +51,9 @@ Among my most notable achievements are:
 
 [Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I served as an Equity Research Analyst Intern in Fall 2024, where I produced research on energy and industrials sectors equities. 
 
-### Technology Consultant, James A Baker Coaching
+### Founder and Consultant, ArdentOperations SMB Consulting
 
-From December 2023 to May 2024, I served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/).
+I founded ArdentOperatins as a pro-bono consultancy that guides small and mid-sized businesses to implement effective operations-and-technology solutions. From December 2023 to May 2024, I served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/).
 
 ## University Leadership
 
