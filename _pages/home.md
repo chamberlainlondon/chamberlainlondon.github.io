@@ -5,7 +5,7 @@ author_profile: true
 ---
 ------
 
-Howdy! My name is London and I'm an undergraduate student at [The University of Texas at Austin](https://www.utexas.edu/). I am pursuing a degree in economics with departmental honors, supported by minors in finance, computer science, and wealth management.
+Howdy! My name is London and I'm an undergraduate student at [The University of Texas at Austin](https://www.utexas.edu/). I am pursuing a degree in economics with departmental honors, supported by minors in finance and computer science.
 
 I am a REPE Financial Analyst Intern at Capital Commercial Investments; you can check out our website using [this link](https://www.capitalcommercial.com/), or read about select work and personal projects [here](https://londonchamberlain.com/portfolio/). I hold my Series 7 and Series 66 securities registrations with LPL Financial.
 
