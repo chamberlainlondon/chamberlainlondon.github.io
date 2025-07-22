@@ -47,9 +47,9 @@ Among my most notable achievements are:
 - Overhauling firm's client-facing investment proposal model using Excel and Visual Basic for Applications so client portfolio creation is more efficient and optimized. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
 - Researching and hiring a technology consultant and data analytics team to produce an advanced dashboard for The Fox Alliance's tax practice.
 
-### Equity Research Analyst Intern, Westlake Securities
+### Fall Equity Research Analyst, Westlake Securities
 
-[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I served as an Equity Research Analyst Intern in Fall 2024, where I produced research on energy and industrials sectors equities. 
+[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I served as an Equity Research Analyst during the Fall 2024 semester, where I produced research on energy and industrials sectors equities. 
 
 ### Founder and Consultant, ArdentOperations SMB Consulting
 
