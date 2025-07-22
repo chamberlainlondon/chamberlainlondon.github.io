@@ -49,7 +49,7 @@ Among my most notable achievements are:
 
 ### Fall Equity Research Analyst, Westlake Securities
 
-[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I served as an Equity Research Analyst during the Fall 2024 semester, where I produced research on energy and industrials sectors equities. 
+[Westlake Securities](https://www.westlakesecurities.com/westlake-approach/) is a boutique middle market investment bank founded in 2003 and headquartered in Austin, Texas. I served as an Equity Research Analyst during the Fall 2024 semester, where I produced proprietary investment research on energy and industrials sectors equities. 
 
 ### Founder and Consultant, ArdentOperations SMB Consulting
 
