@@ -53,7 +53,7 @@ Among my most notable achievements are:
 
 ### Founder and Consultant, ArdentOperations SMB Consulting
 
-I founded ArdentOperatins as a pro-bono consultancy that guides small and mid-sized businesses to implement effective operations-and-technology solutions. From December 2023 to May 2024, I served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/).
+I founded ArdentOperatins as a pro-bono consultancy that guides small and mid-sized businesses to implement effective operations-and-technology solutions. From December 2023 to May 2024, ArdentOperations served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/). The consultancy most recently performed services for an [Austin-based men's and children's hair studio](https://jeaneestone.glossgenius.com/).
 
 ## University Leadership
 
