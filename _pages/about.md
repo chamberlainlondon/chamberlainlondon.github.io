@@ -20,7 +20,7 @@ toc: false
 
 ### The University of Texas at Austin
 - B.S. Economics, The University of Texas at Austin, 2026
-  - McCombs School of Business Minors: [Finance](https://www.mccombs.utexas.edu/faculty-research/departments/finance/finance-course-offerings/)
+  - McCombs School of Business Minor in [Finance](https://www.mccombs.utexas.edu/faculty-research/departments/finance/finance-course-offerings/)
   - Academic Certificate: [Programming and Computation](https://www.cs.utexas.edu/undergraduate-program/academics/elements-computing) (Computer Science)
 
 ### Austin Community College
