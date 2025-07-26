@@ -15,11 +15,11 @@ main:
   - title: "Resume"
     url: /files/London_Chamberlain_Resume.pdf
 
-  - title: "Contact"
-    url: /contact/
-
   - title: "ArdentOperations"
     url: https://www.ardent-operations.com
+
+  - title: "Contact"
+    url: /contact/
     
 #  - title: "Guide"
 #    url: /markdown/
