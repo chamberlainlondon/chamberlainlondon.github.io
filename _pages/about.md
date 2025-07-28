@@ -31,7 +31,7 @@ toc: false
 
 ### Real Estate Financial Analyst Intern, Capital Commercial Investments
 
-[Capital Commercial](https://capitalcommercial.com/) is a real estate private equity firm specializing in office and industrial acquisitions and asset management with $2.2B+ AUM. Since June 2025, I have been a Financial Analyst Intern, where I support acquisitions financial analysts, asset managers, and our executive team. My daily responsibilities involve underwriting office acquisitions in Argus Enterprise and Microsoft Excel, researching and analyzing office submarket data in CoStar, producing proprietary quarterly investmet reports for current investors, and sourcing potential limited partners for future investment opportunities. 
+[Capital Commercial](https://capitalcommercial.com/) is a real estate private equity firm specializing in office and industrial acquisitions and asset management with $2.2B+ AUM. Since June 2025, I have been a Financial Analyst Intern, where I support acquisitions financial analysts, asset managers, and our executive team. My daily responsibilities involve underwriting office acquisitions in Argus Enterprise and Microsoft Excel, researching and analyzing office submarket data in CoStar, producing proprietary quarterly investment reports for current investors, and sourcing potential limited partners for future investment opportunities. 
 
 ### Wealth Management Intern & Wealth Management Analyst, The Fox Alliance Wealth Advisors
 
