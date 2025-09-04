@@ -29,10 +29,6 @@ toc: false
 
 ## Professional Experience
 
-### Real Estate Financial Analyst Intern, Capital Commercial Investments
-
-[Capital Commercial](https://capitalcommercial.com/) is a real estate private equity firm specializing in office and industrial acquisitions and asset management with $2.2B+ AUM. Since June 2025, I have been a Financial Analyst Intern, where I support acquisitions financial analysts, asset managers, and our executive team. My daily responsibilities involve underwriting office acquisitions in Argus Enterprise and Microsoft Excel, researching and analyzing office submarket data in CoStar, producing proprietary quarterly investment reports for current investors, and sourcing potential limited partners for future investment opportunities. 
-
 ### Wealth Management Intern & Wealth Management Analyst, The Fox Alliance Wealth Advisors
 
 [The Fox Alliance](https://www.foxalliancewealth.com/) is a wealth management and tax strategy firm founded in 2014 and headquartered in Austin, Texas. Since September 2021, I have been a Wealth Management Intern, where I support financial advisors and planners in enhancing operational efficiency and client service. My daily responsibilities involve analyzing client and investment data, developing new financial models, creating financial dashboards, and producing proprietary investment research for the firm. 
@@ -46,9 +42,13 @@ Among my most notable achievements are:
 - Overhauling firm's client-facing investment proposal model using Excel and Visual Basic for Applications so client portfolio creation is more efficient and optimized. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
 - Researching and hiring a technology consultant and data analytics team to produce an advanced dashboard for The Fox Alliance's tax practice.
 
+### Real Estate Private Equity Summer Analyst, Capital Commercial Investments
+
+[Capital Commercial](https://capitalcommercial.com/) is a real estate private equity firm specializing in office and industrial acquisitions and asset management with $2.2B+ AUM. During summer of 2025, I was a Real Estate Private Equity Summer Analyst, where I supported acquisitions analysts, asset managers, and our executive team. My daily responsibilities involved underwriting office acquisitions in Argus Enterprise and Microsoft Excel, researching and analyzing office submarket data in CoStar, producing proprietary quarterly investment reports for current investors, and sourcing potential limited partners for future investment opportunities. 
+
 ### Founder and Consultant, ArdentOperations SMB Consulting
 
-I founded ArdentOperatins as a pro-bono consultancy that guides small and mid-sized businesses to implement effective operations-and-technology solutions. From December 2023 to May 2024, ArdentOperations served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/). The consultancy most recently performed services for an [Austin-based men's and children's hair studio](https://jeaneestone.glossgenius.com/).
+I founded ArdentOperatins as a pro-bono consultancy that guides small and mid-sized businesses to implement effective operations-and-technology solutions. From December 2023 to May 2024, ArdentOperations served as a technology consultant for [James A. Baker Coaching](https://jamesabakercoaching.com/). The consultancy most recently performed services for an [Austin-based men's and children's hair studio](https://jeaneestone.glossgenius.com/) and [Austin's #1 voted new gym](https://hitathletic.com/).
 
 ### Fall Equity Research Analyst, Westlake Securities
 
