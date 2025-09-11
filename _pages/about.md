@@ -29,7 +29,7 @@ toc: false
 
 ## Professional Experience
 
-### Wealth Management Intern & Wealth Management Analyst, The Fox Alliance Wealth Advisors
+### Wealth Management Intern & Financial Analyst, The Fox Alliance Wealth Advisors
 
 [The Fox Alliance](https://www.foxalliancewealth.com/) is a wealth management and tax strategy firm founded in 2014 and headquartered in Austin, Texas. Since September 2021, I have been a Wealth Management Intern, where I support financial advisors and planners in enhancing operational efficiency and client service. My daily responsibilities involve analyzing client and investment data, developing new financial models, creating financial dashboards, and producing proprietary investment research for the firm. 
 
