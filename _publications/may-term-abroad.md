@@ -34,18 +34,18 @@ layout: default
 
 <div id="seoul-scroll-gallery">
   <div class="scroll-container">
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_1.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_2.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_3.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_4.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_5.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_6.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_7.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_8.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_9.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_10.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_11.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_12.jpg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_13.jpg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_1.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_2.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_3.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_4.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_5.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_6.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_7.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_8.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_9.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_10.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_11.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_12.jpeg" alt=""></div>
+    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_13.jpeg" alt=""></div>
   </div>
 </div>
