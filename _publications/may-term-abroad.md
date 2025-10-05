@@ -6,6 +6,21 @@ excerpt: 'This collection is from my Valuation study abroad program in Seoul, So
 venue: ''
 date: 2025-05-01
 layout: default
+
+captions:
+  1: "Seoul_1"
+  2: "Seoul_2"
+  3: "Seoul_3"
+  4: "Seoul_4"
+  5: "Seoul_5"
+  6: "Seoul_6"
+  7: "Seoul_7"
+  8: "Seoul_8"
+  9: "Seoul_9"
+  10: "Seoul_10"
+  11: "Seoul_11"
+  12: "Seoul_12"
+  13: "Seoul_13"
 ---
 
 <style>
@@ -25,14 +40,14 @@ layout: default
   -webkit-overflow-scrolling: touch;
   padding: 3rem 0;
   gap: 2rem;
-  justify-content: flex-start; /* ensure images flow left-to-right */
+  justify-content: flex-start;
   align-items: center;
   scroll-behavior: smooth;
 }
 
 #seoul-scroll-gallery .scroll-item {
   flex: none;
-  scroll-snap-align: start; /* snaps each image neatly to left edge */
+  scroll-snap-align: start;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -67,13 +82,10 @@ layout: default
 }
 </style>
 
-<!-- JavaScript: scrolls to the first image on load -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const container = document.querySelector('#seoul-scroll-gallery .scroll-container');
-  if (container) {
-    container.scrollTo({ left: 0, behavior: "instant" });
-  }
+  if (container) container.scrollTo({ left: 0, behavior: "instant" });
 });
 </script>
 
@@ -84,8 +96,8 @@ document.addEventListener("DOMContentLoaded", function() {
 {% for i in seoul_images %}
   <div class="scroll-item">
     <figure>
-      <img src="/images/photography/south_korea/seoul/seoul_{{ i }}.jpeg" alt="Seoul photo {{ i }}">
-      <figcaption></figcaption>
+      <img src="/images/photography/south_korea/seoul/seoul_{{ i }}.jpeg" alt="{{ page.captions[i] }}">
+      <figcaption>{{ page.captions[i] }}</figcaption>
     </figure>
   </div>
 {% endfor %}
