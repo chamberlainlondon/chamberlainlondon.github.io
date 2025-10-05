@@ -4,7 +4,7 @@ collection: photography
 permalink: /photography/may-term-abroad
 excerpt: 'This collection is from my Valuation study abroad program in Seoul, South Korea during May 2025.'
 venue: ''
-date: 2025/05/01
+date: 2025-05-01
 layout: default
 
 captions:
@@ -93,11 +93,12 @@ document.addEventListener("DOMContentLoaded", function() {
   <div class="scroll-container">
 
 {% assign seoul_images = "1,2,3,4,5,6,7,8,9,10,11,12,13" | split: "," %}
-{% for i in seoul_images %}
+{% for num in seoul_images %}
+  {% assign key = num | strip %}
   <div class="scroll-item">
     <figure>
-      <img src="/images/photography/south_korea/seoul/seoul_{{ i }}.jpeg" alt="{{ page.captions[i] }}">
-      <figcaption>{{ page.captions[i] }}</figcaption>
+      <img src="/images/photography/south_korea/seoul/seoul_{{ key }}.jpeg" alt="{{ page.captions[key] }}">
+      <figcaption>{{ page.captions[key] }}</figcaption>
     </figure>
   </div>
 {% endfor %}
