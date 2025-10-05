@@ -7,20 +7,34 @@ venue: ''
 date: 2025-05-01
 layout: default
 
+# ✅ Captions stored as list of maps (GitHub Pages safe)
 captions:
-  1: "Seoul_1"
-  2: "Seoul_2"
-  3: "Seoul_3"
-  4: "Seoul_4"
-  5: "Seoul_5"
-  6: "Seoul_6"
-  7: "Seoul_7"
-  8: "Seoul_8"
-  9: "Seoul_9"
-  10: "Seoul_10"
-  11: "Seoul_11"
-  12: "Seoul_12"
-  13: "Seoul_13"
+  - num: 1
+    text: "Seoul_1"
+  - num: 2
+    text: "Seoul_2"
+  - num: 3
+    text: "Seoul_3"
+  - num: 4
+    text: "Seoul_4"
+  - num: 5
+    text: "Seoul_5"
+  - num: 6
+    text: "Seoul_6"
+  - num: 7
+    text: "Seoul_7"
+  - num: 8
+    text: "Seoul_8"
+  - num: 9
+    text: "Seoul_9"
+  - num: 10
+    text: "Seoul_10"
+  - num: 11
+    text: "Seoul_11"
+  - num: 12
+    text: "Seoul_12"
+  - num: 13
+    text: "Seoul_13"
 ---
 
 <style>
@@ -92,11 +106,11 @@ document.addEventListener("DOMContentLoaded", function() {
 <div id="seoul-scroll-gallery">
   <div class="scroll-container">
 
-{% for key,value in page.captions %}
+{% for item in page.captions %}
   <div class="scroll-item">
     <figure>
-      <img src="/images/photography/south_korea/seoul/seoul_{{ key }}.jpeg" alt="{{ value }}">
-      <figcaption>{{ value }}</figcaption>
+      <img src="/images/photography/south_korea/seoul/seoul_{{ item.num }}.jpeg" alt="{{ item.text }}">
+      <figcaption>{{ item.text }}</figcaption>
     </figure>
   </div>
 {% endfor %}
