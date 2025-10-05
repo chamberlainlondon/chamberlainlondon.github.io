@@ -45,17 +45,19 @@ captions:
   background: var(--background-color, #f9f9f9);
 }
 
+/* Horizontal scroll container */
 #seoul-scroll-gallery .scroll-container {
   display: flex;
   overflow-x: auto;
   overflow-y: hidden;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
-  padding: 3rem 0;
+  padding: 3rem 3rem 3rem 5rem; /* ← extra left padding */
   gap: 2rem;
   justify-content: flex-start;
-  align-items: flex-start; /* ensures caption aligns under image */
+  align-items: flex-start;
   scroll-behavior: smooth;
+  border-left: 4px solid rgba(0, 0, 0, 0.1); /* optional subtle border */
 }
 
 #seoul-scroll-gallery .scroll-item {
@@ -63,7 +65,7 @@ captions:
   scroll-snap-align: start;
   display: flex;
   flex-direction: column;
-  align-items: flex-start; /* left-aligns caption */
+  align-items: flex-start;
   justify-content: flex-start;
   min-width: 40vw;
 }
@@ -97,8 +99,8 @@ captions:
 #seoul-scroll-gallery figcaption {
   margin-top: 0.5rem;
   font-size: 0.95rem;
-  color: var(--text-color, #333);  /* falls back to dark gray */
-  font-family: inherit;            /* inherits your site’s main font */
+  color: var(--text-color, #333);
+  font-family: inherit;
   text-align: left;
 }
 </style>
