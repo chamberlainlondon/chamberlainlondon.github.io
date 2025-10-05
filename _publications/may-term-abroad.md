@@ -92,13 +92,11 @@ document.addEventListener("DOMContentLoaded", function() {
 <div id="seoul-scroll-gallery">
   <div class="scroll-container">
 
-{% assign seoul_images = "1,2,3,4,5,6,7,8,9,10,11,12,13" | split: "," %}
-{% for num in seoul_images %}
-  {% assign key = num | strip %}
+{% for key,value in page.captions %}
   <div class="scroll-item">
     <figure>
-      <img src="/images/photography/south_korea/seoul/seoul_{{ key }}.jpeg" alt="{{ page.captions[key] }}">
-      <figcaption>{{ page.captions[key] }}</figcaption>
+      <img src="/images/photography/south_korea/seoul/seoul_{{ key }}.jpeg" alt="{{ value }}">
+      <figcaption>{{ value }}</figcaption>
     </figure>
   </div>
 {% endfor %}
