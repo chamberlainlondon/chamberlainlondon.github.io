@@ -1,5 +1,5 @@
 ---
-title: "Seoul: Streetlight Stories"
+title: "Seoul 2025: Streetlight Stories"
 collection: photography
 permalink: /photography/may-term-abroad
 excerpt: 'This collection is from my Valuation study abroad program in Seoul, South Korea during May 2025.'
@@ -9,19 +9,19 @@ layout: default
 
 captions:
   - num: 1
-    text: "Seoul_1"
+    text: "Subway Station"
   - num: 2
-    text: "Seoul_2"
+    text: "Dongmyo Flea Market"
   - num: 3
     text: "Seoul_3"
   - num: 4
     text: "Seoul_4"
   - num: 5
-    text: "Seoul_5"
+    text: "Dongmyo Flea Market"
   - num: 6
     text: "Seoul_6"
   - num: 7
-    text: "Seoul_7"
+    text: "Han River"
   - num: 8
     text: "Seoul_8"
   - num: 9
