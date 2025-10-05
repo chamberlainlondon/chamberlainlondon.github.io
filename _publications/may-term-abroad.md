@@ -4,7 +4,7 @@ collection: photography
 permalink: /photography/may-term-abroad
 excerpt: 'This collection is from my Valuation study abroad program in Seoul, South Korea during May 2025.'
 venue: ''
-date: 2025-05-01
+date: '2025-05-01'
 layout: default
 
 captions:
