@@ -25,13 +25,14 @@ layout: default
   -webkit-overflow-scrolling: touch;
   padding: 3rem 0;
   gap: 2rem;
-  justify-content: center;
+  justify-content: flex-start; /* ensure images flow left-to-right */
   align-items: center;
+  scroll-behavior: smooth;
 }
 
 #seoul-scroll-gallery .scroll-item {
   flex: none;
-  scroll-snap-align: center;
+  scroll-snap-align: start; /* snaps each image neatly to left edge */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -65,6 +66,16 @@ layout: default
   min-height: 1.2rem;
 }
 </style>
+
+<!-- JavaScript: scrolls to the first image on load -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const container = document.querySelector('#seoul-scroll-gallery .scroll-container');
+  if (container) {
+    container.scrollTo({ left: 0, behavior: "instant" });
+  }
+});
+</script>
 
 <div id="seoul-scroll-gallery">
   <div class="scroll-container">
