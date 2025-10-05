@@ -14,7 +14,7 @@ layout: default
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 90vh; /* gives the section breathing room */
+  min-height: 90vh;
   background: var(--background-color, #f9f9f9);
 }
 
@@ -30,40 +30,54 @@ layout: default
   align-items: center;
 }
 
-/* Each image container */
 #seoul-scroll-gallery .scroll-item {
   flex: none;
   scroll-snap-align: center;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
+  min-width: 40vw;
 }
 
-/* Images keep original aspect ratio */
 #seoul-scroll-gallery .scroll-item img {
-  height: auto;
-  max-height: 70vh; /* controls vertical size */
+  max-height: 70vh;
+  max-width: 85vw;
   width: auto;
-  max-width: 85vw; /* prevents overflow */
+  height: auto;
+  object-fit: contain;
   border-radius: 12px;
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #f2f2f2;
 }
 
-/* Subtle zoom effect */
 #seoul-scroll-gallery .scroll-item img:hover {
   transform: scale(1.03);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+#seoul-scroll-gallery figcaption {
+  text-align: center;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: #555;
+  min-height: 1.2rem;
 }
 </style>
 
 <div id="seoul-scroll-gallery">
   <div class="scroll-container">
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_1.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_2.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_3.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_4.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_5.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_6.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_7.jpeg" alt=""></div>
-    <div class="scroll-item"><img src="/images/photography/south_korea/seoul/seoul_8.jpeg" alt=
+
+{% assign seoul_images = "1,2,3,4,5,6,7,8,9,10,11,12,13" | split: "," %}
+{% for i in seoul_images %}
+  <div class="scroll-item">
+    <figure>
+      <img src="{{ site.baseurl }}/images/photography/south_korea/seoul/seoul_{{ i }}.jpeg" alt="Seoul photo {{ i }}">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+{% endfor %}
+
+  </div>
+</div>
