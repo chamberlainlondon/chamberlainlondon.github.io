@@ -45,6 +45,15 @@ captions:
   background: var(--background-color, #f9f9f9);
 }
 
+#seoul-scroll-gallery figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  text-align: left;
+  color: rgba(141, 163, 184, 0.85); /* ✨ soft blue-grey */
+  letter-spacing: 0.02em;
+}
+
 #seoul-scroll-gallery .scroll-container {
   display: flex;
   overflow-x: auto;
