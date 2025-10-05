@@ -7,7 +7,6 @@ venue: ''
 date: 2025-05-01
 layout: default
 
-# ✅ Captions stored as list of maps (GitHub Pages safe)
 captions:
   - num: 1
     text: "Seoul_1"
@@ -55,7 +54,7 @@ captions:
   padding: 3rem 0;
   gap: 2rem;
   justify-content: flex-start;
-  align-items: center;
+  align-items: flex-start; /* ensures caption aligns under image */
   scroll-behavior: smooth;
 }
 
@@ -64,9 +63,16 @@ captions:
   scroll-snap-align: start;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start; /* left-aligns caption */
+  justify-content: flex-start;
   min-width: 40vw;
+}
+
+#seoul-scroll-gallery figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 #seoul-scroll-gallery .scroll-item img {
@@ -87,12 +93,13 @@ captions:
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
 }
 
+/* ✨ Caption styling */
 #seoul-scroll-gallery figcaption {
-  text-align: center;
-  margin-top: 0.75rem;
-  font-size: 0.9rem;
-  color: #555;
-  min-height: 1.2rem;
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--text-color, #333);  /* falls back to dark gray */
+  font-family: inherit;            /* inherits your site’s main font */
+  text-align: left;
 }
 </style>
 
