@@ -45,6 +45,21 @@ captions:
   background: var(--background-color, #f9f9f9);
 }
 
+#seoul-scroll-gallery .scroll-container {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding: 3rem 3rem 3rem 5rem; /* left padding for border space */
+  gap: 2rem;
+  justify-content: flex-start;
+  align-items: flex-start;
+  scroll-behavior: smooth;
+  border-left: 4px solid rgba(0, 0, 0, 0.1);
+  scroll-padding-left: 5rem; /* ✅ key line: accounts for left padding */
+}
+
 /* Horizontal scroll container */
 #seoul-scroll-gallery .scroll-container {
   display: flex;
