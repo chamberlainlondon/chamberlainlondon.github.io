@@ -4,9 +4,33 @@ collection: photography
 permalink: /photography/may-term-abroad
 excerpt: 'This collection is from my Valuation study abroad program in Seoul, South Korea during May 2025.'
 venue: ''
-date: '2025-05-01'
+date: 2025-05-01
+layout: default
 ---
 
+<style>
+/* 🔒 Styles scoped to this page only */
+#seoul-scroll-gallery .scroll-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+#seoul-scroll-gallery .scroll-item {
+  flex: none;
+  scroll-snap-align: start;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+#seoul-scroll-gallery .scroll-item img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+</style>
 
 <div id="seoul-scroll-gallery">
   <div class="scroll-container">
