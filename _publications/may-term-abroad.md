@@ -2,7 +2,7 @@
 title: "Seoul 2025: Streetlight Stories"
 collection: photography
 permalink: /photography/may-term-abroad
-excerpt: 'This collection is from my Valuation study abroad program in Seoul, South Korea during May 2025.'
+excerpt: 'I took this collection of photographs during my study abroad trip to Seoul, South Korea in May 2025.'
 venue: ''
 date: '2025-05-01'
 layout: default
