@@ -9,31 +9,31 @@ layout: default
 
 captions:
   - num: 1
-    text: "Subway Station"
+    text: "Seongsu Station, Seoul Subway Line 2"
   - num: 2
-    text: "Dongmyo Flea Market"
+    text: "Entrance to Dongmyo Flea Market"
   - num: 3
-    text: "Seoul_3"
+    text: "Inscriptions in Ansan Mountain Rocks"
   - num: 4
-    text: "Seoul_4"
+    text: "Starfield Library in Starfield Coex Mall"
   - num: 5
-    text: "Dongmyo Flea Market"
+    text: "Dongmyo Flea Market Vintage Clothing Stores"
   - num: 6
-    text: "Seoul_6"
+    text: "Building in Mapo-dong, Mapo District"
   - num: 7
-    text: "Han River"
+    text: "Han River with Friends"
   - num: 8
-    text: "Seoul_8"
+    text: "View Overlooking Ansan Mountain"
   - num: 9
-    text: "Seoul_9"
+    text: "National Museum of Korea Inflatable Statue"
   - num: 10
-    text: "Seoul_10"
+    text: "Milwaukee Garage Door"
   - num: 11
-    text: "Seoul_11"
+    text: "Lanterns in Jogyesa Temple"
   - num: 12
-    text: "Seoul_12"
+    text: "Kei Truck in Mapo-dong, Mapo District"
   - num: 13
-    text: "Seoul_13"
+    text: "N Seoul Tower at Night with May Term Cohort"
 ---
 
 <style>
