@@ -18,8 +18,8 @@ main:
   - title: "ArdentOperations"
     url: https://ardent-operations.com/
 
-  - title: "Photography"
-    url: /photography/
+#  - title: "Photography"
+#    url: /photography/
 
   - title: "Contact"
     url: /contact/
