@@ -60,7 +60,7 @@ I founded ArdentOperatins as a pro-bono consultancy that guides small and mid-si
 
 ## University Leadership
 
-### [Texas Blazers](https://www.texasblazers.com/)
+### [Texas Blazers](https://www.texasblazers.org/)
 
 - Vice Chair of Fundraising, The University of Texas at Austin, Fall 2024 - Spring 2025
 - Fundraising Committee Member, The University of Texas at Austin, Spring 2024
