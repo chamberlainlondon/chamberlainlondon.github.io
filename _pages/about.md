@@ -42,6 +42,10 @@ Among my most notable achievements are:
 - Overhauling firm's client-facing investment proposal model using Excel and Visual Basic for Applications so client portfolio creation is more efficient and optimized. [Read More](https://londonchamberlain.com/portfolio/portfolio-4/)
 - Researching and hiring a technology consultant and data analytics team to produce an advanced dashboard for The Fox Alliance's tax practice.
 
+### Investment Banking Intern, SellSide Group
+
+[SellSide Group](https://www.sellsidegroup.com/) is a Dallas-based M&A advisory firm specializing in buy-side and sell-side representation and support for middle-market companies. During the Fall 2025 semester, I was an Investment Banking Intern, where I supported two deal teams across live sell-side mandates and prospective client engagements. My responsibilities included conducting financial and operational due diligence, validating and updating financial models in Microsoft Excel, preparing CIMs and management presentations, and performing industry and buyer research to support positioning and outreach for M&A processes on transactions ranging from $3M+ enterprise value.
+
 ### Real Estate Private Equity Summer Analyst, Capital Commercial Investments
 
 [Capital Commercial](https://capitalcommercial.com/) is a real estate private equity firm specializing in office and industrial acquisitions and asset management with $2.2B+ AUM. During summer of 2025, I was a Real Estate Private Equity Summer Analyst, where I supported acquisitions analysts, asset managers, and our executive team. My daily responsibilities involved underwriting office acquisitions in Argus Enterprise and Microsoft Excel, researching and analyzing office submarket data in CoStar, producing proprietary quarterly investment reports for current investors, and sourcing potential limited partners for future investment opportunities. 
