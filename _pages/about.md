@@ -92,7 +92,7 @@ I hold my Series 7 and Series 66 licenses with LPL Financial. I have also passed
 
 ### Harvard Professional Certificate in Computer Science for Python Programming (In progress)
 
-In 2025, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, students develop expertise in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. By the end of the program, students create a piece of software implemented in any (or multiple) language(s) that solves a relevant problem of interest.
+In 2026, I am working on Harvard College's [Professional Certificate in Computer Science for Python Programming](https://www.harvardonline.harvard.edu/course/professional-certificate-computer-science-python-programming). During the 2-course sequence, students develop expertise in advanced Python concepts, as well as familiarity in C, SQL, JavaScript, HTML, and CSS. By the end of the program, students create a piece of software implemented in any (or multiple) language(s) that solves a relevant problem of interest.
 
 ### Google Data Analytics Professional Certificate (2023)
 
